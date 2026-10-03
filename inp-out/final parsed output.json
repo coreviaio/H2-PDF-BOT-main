@@ -1,0 +1,587 @@
+{
+    "publicData": {
+        "title": {
+            "name": "Treatment of hydrogen molecule abates oxidative stress and alleviates bone loss induced by modeled microgravity in rats",
+            "status": "unverified"
+        },
+        "pmid": "22648000",
+        "doi": {
+            "name": "10.1007/s00198-012-2028-4",
+            "status": "unverified"
+        },
+        "authors": [
+            {
+                "name": "Y. Sun",
+                "affiliation": "Department of Emergency, The Military General Hospital of Beijing PLA, Beijing 100700, China",
+                "status": "unverified"
+            },
+            {
+                "name": "F. Shuang",
+                "affiliation": "Department of Orthopaedics, 94 Hospital of PLA, Nanchang 330002, China",
+                "status": "unverified"
+            },
+            {
+                "name": "D. M. Chen",
+                "affiliation": "Department of Emergency, The Military General Hospital of Beijing PLA, Beijing 100700, China",
+                "status": "unverified"
+            },
+            {
+                "name": "R. B. Zhou",
+                "affiliation": "Department of Emergency, The Military General Hospital of Beijing PLA, Beijing 100700, China",
+                "status": "unverified"
+            }
+        ],
+        "abstract": {
+            "name": "Summary Treatment with molecular hydrogen alleviates microgravity-induced bone loss through abating oxidative stress, restoring osteoblastic differentiation, and suppressing osteoclast differentiation and osteoclastogenesis.\nIntroduction Recently, it has been suggested that hydrogen gas exerts a therapeutic antioxidant activity by selectively reducing cytotoxic reactive oxygen species (ROS). The aim of the present study was to elucidate whether treatment with molecular hydrogen alleviated bone loss induced by modeled microgravity in rats.\nMethods Hindlimb suspension (HLS) and rotary wall vessel bioreactor were used to model microgravity in vivo and in vitro, respectively. Sprague–Dawley rats were exposed to HLS for 6 weeks to induced bone loss and simultaneously administrated with hydrogen water (HW). Then, we investigated the effects of incubation with hydrogen-rich medium (HRM) on MC3T3-E1 and RAW264.7 cells exposed to modeled microgravity.\nResults Treatment with HWalleviated HLS-induced reduction of bone mineral density, ultimate load, stiffness, and energy in femur and lumbar vertebra. Treatment with HW alleviated HLS-induced augmentation of malondialdehyde content and peroxynitrite content and reduction of total sulfhydryl content in femur and lumbar vertebra. In cultured MC3T3-E1 cells, incubation with HRM inhibited modeled microgravity-induced ROS formation, reduction of osteoblastic differentiation, increase of ratio of receptor activator of nuclear factor kappa B ligand to osteoprotegerin, inducible nitric oxide synthetase upregulation, and Erk1/2 phosphorylation. In cultured RAW264.7, incubation with HRM aggravated modeled microgravity-induced ROS formation, osteoclastic differentiation, and osteoclastogenesis.\nConclusion Treatment with molecular hydrogen alleviates microgravity-induced bone loss in rats. Molecular hydrogen could thus be envisaged as a nutritional countermeasure for spaceflight but remains to be tested in humans.",
+            "status": "unverified"
+        },
+        "year": {
+            "name": "2013",
+            "status": "unverified"
+        },
+        "journal": {
+            "name": "Osteoporosis International",
+            "status": "unverified"
+        },
+        "publisher": {
+            "name": "Springer",
+            "status": "unverified"
+        },
+        "impactFactor": {
+            "name": 3.977,
+            "status": "unverified"
+        },
+        "HIndex": {
+            "name": 201,
+            "status": "unverified"
+        },
+        "sciMAGO": {
+            "name": "Q1",
+            "status": "unverified"
+        },
+        "volume": {
+            "name": "24",
+            "status": "unverified"
+        },
+        "issue": null,
+        "pages": {
+            "name": "969–978",
+            "status": "unverified"
+        },
+        "country": [
+            {
+                "name": "China",
+                "status": "unverified"
+            }
+        ],
+        "grantCountry": null,
+        "researchCountry": [
+            {
+                "name": "China",
+                "status": "unverified"
+            }
+        ],
+        "keywords": {
+            "name": "Bone loss, Hydrogen molecule, Microgravity, Osteoblastic differentiation, Osteoclast differentiation, Oxidative stress",
+            "status": "unverified"
+        },
+        "status": "unverified"
+    },
+    "articleGeneralData": {
+        "outcome": {
+            "name": "Treatment with molecular hydrogen (via hydrogen water) alleviated bone loss induced by modeled microgravity in rats by reducing oxidative stress, restoring osteoblastic differentiation, and suppressing osteoclast differentiation and osteoclastogenesis. Hydrogen-rich medium also protected osteoblasts and inhibited osteoclastogenesis in vitro.",
+            "status": "unverified"
+        },
+        "outcomeType": [
+            "positive"
+        ],
+        "rankThisArticle": {
+            "name": 90,
+            "status": "unverified"
+        },
+        "HighlightArticle": {
+            "name": true,
+            "status": "unverified"
+        },
+        "descHighArt": {
+            "name": "This article demonstrates that molecular hydrogen can significantly counteract bone loss and oxidative stress induced by simulated microgravity, suggesting a potential nutritional countermeasure for astronauts or bedridden patients.",
+            "status": "unverified"
+        },
+        "studyType": [
+            {
+                "name": "In Vivo",
+                "status": "unverified"
+            },
+            {
+                "name": "In Vitro",
+                "status": "unverified"
+            }
+        ],
+        "NonExperimentalSelect": [],
+        "ReviewStudyType": null,
+        "OpinionPiece": null,
+        "Hypothesis": null,
+        "TherapeuticDeliverySystems": null,
+        "inVivo": [
+            {
+                "name": "Animal",
+                "status": "unverified"
+            }
+        ],
+        "selectedStudyTypes": [],
+        "clinicalTrialDesign": [],
+        "observationalStudyObj": [],
+        "durationOfStudy": {
+            "name": 6.0,
+            "status": "unverified"
+        },
+        "studyDurationUnit": "weeks",
+        "timingTreatmentInVivo": [
+            {
+                "name": "Simultaneous",
+                "status": "unverified"
+            }
+        ],
+        "durationOfStudyinVitro": null,
+        "UnitOfStudyInVitro": null,
+        "timingTreatmentInVitro": [
+            {
+                "name": "Simultaneous",
+                "status": "unverified"
+            }
+        ],
+        "WhatCellTissueUsed": null,
+        "durationOfStudyExVivo": null,
+        "UnitOfStudyExVivo": null,
+        "timingTreatmentExVivo": [],
+        "Other": null,
+        "species": [
+            {
+                "name": "Sprague-Dawley",
+                "status": "unverified"
+            }
+        ],
+        "specieDetails": {
+            "Sprague-Dawley": {
+                "name": {
+                    "name": "Sprague-Dawley",
+                    "status": "unverified"
+                },
+                "status": "unverified",
+                "DescribeSpecies": {
+                    "name": "Male Sprague–Dawley rats used for in vivo microgravity and hydrogen water experiments",
+                    "status": "unverified"
+                },
+                "subjects": {
+                    "name": "48",
+                    "status": "unverified"
+                },
+                "health": {
+                    "name": "Healthy",
+                    "status": "unverified"
+                },
+                "gender": {
+                    "name": "Male",
+                    "status": "unverified"
+                },
+                "averageAge": null,
+                "ageUnit": {
+                    "name": "",
+                    "status": "unverified"
+                },
+                "averageWeight": {
+                    "name": "385.0",
+                    "status": "unverified"
+                },
+                "weightUnit": {
+                    "name": "grams",
+                    "status": "unverified"
+                }
+            }
+        },
+        "researchtopic": [
+            {
+                "name": "Osteoporosis",
+                "status": "unverified"
+            },
+            {
+                "name": "Oxidative Stress",
+                "status": "unverified"
+            },
+            {
+                "name": "Bone",
+                "status": "unverified"
+            },
+            {
+                "name": "Hydrogen Therapy",
+                "status": "unverified"
+            },
+            {
+                "name": "Mechanistic-Direct",
+                "status": "unverified"
+            }
+        ],
+        "diseaseModel": {
+            "name": "Microgravity-induced bone loss (simulated by hindlimb suspension in rats)",
+            "status": "unverified"
+        },
+        "system": [
+            {
+                "name": "Skeletal",
+                "status": "unverified"
+            }
+        ],
+        "organ": [
+            {
+                "name": "Bone",
+                "status": "unverified"
+            },
+            {
+                "name": "Femur",
+                "status": "unverified"
+            },
+            {
+                "name": "Marrow",
+                "status": "unverified"
+            },
+            {
+                "name": "Musculoskeletal System",
+                "status": "unverified"
+            }
+        ],
+        "status": "unverified"
+    },
+    "researcherData": {
+        "speciesData": {
+            "Sprague-Dawley": {
+                "HowManyConcentrations": {
+                    "name": 1,
+                    "status": "unverified"
+                },
+                "volumes": [
+                    {
+                        "value": "ad libitum",
+                        "unit": "mL",
+                        "status": "unverified"
+                    }
+                ],
+                "concentrations": [
+                    {
+                        "value": "0.4",
+                        "unit": "mM",
+                        "status": "unverified"
+                    }
+                ],
+                "absoluteDoses": null,
+                "relativeDoses": null,
+                "inhalationConcentrations": null,
+                "wasOxyhydrogenUsed": {
+                    "name": "No",
+                    "status": "unverified"
+                },
+                "isInhalationOpen": false,
+                "isCellTissueOpen": true,
+                "isIngestionOpen": true,
+                "methods": [
+                    "Oral Hydrogen Water"
+                ],
+                "weight": "385 grams",
+                "numInhalationConcentrations": {
+                    "name": "0",
+                    "status": "unverified"
+                },
+                "topicalMethod": null,
+                "concentrationOfHydrogenForMedium": {
+                    "name": "0.4 mM",
+                    "status": "unverified"
+                },
+                "FrequencyCellCultureTissues": null,
+                "DurationFrequencyCellCultureTissues": {
+                    "value": "4-7",
+                    "unit": "days",
+                    "status": "unverified"
+                },
+                "Peakbreathhydrogen": null,
+                "Frequency": null,
+                "IngestionDurationfrequency": {
+                    "value": "6",
+                    "unit": "weeks",
+                    "status": "unverified"
+                },
+                "isOpen": true
+            }
+        },
+        "CompMethodAdmin": {
+            "name": false,
+            "status": "unverified"
+        },
+        "CompMethodAdminDesc": null,
+        "doseComparison": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "doseComparisonDesc": null,
+        "drugComparison": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "comparisonDetail": null,
+        "pharmacokinetics": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "pharmacokineticsDescription": null,
+        "isERW": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "ph": null,
+        "erwCompared": null,
+        "adverseEffects": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "adverseEffectsDescription": null,
+        "doseDependentEffect": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "safetyProfile": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "safetyofhydrogen": {
+            "name": false,
+            "status": "unverified"
+        },
+        "sexDifference": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "responderDifference": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "pregnantBreastfeeding": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "mechanisticInsights": {
+            "name": "True",
+            "status": "unverified"
+        },
+        "Video_WebpageLink": null,
+        "PasteUrl": {
+            "name": "https://link.springer.com/article/10.1007/s00198-012-2028-4",
+            "status": "unverified"
+        },
+        "commercialProduct": {
+            "name": "No",
+            "status": "unverified"
+        },
+        "brandName": null,
+        "geneExpression": {
+            "name": "True",
+            "status": "unverified"
+        },
+        "geneExpressionDesc": {
+            "name": "Hydrogen water restored ALP mRNA expression in bone, and hydrogen-rich medium reversed microgravity-induced changes in Runx2, iNOS, CathK, Intβ3, and TRAP mRNA expression in cell lines.",
+            "status": "unverified"
+        },
+        "status": "unverified"
+    },
+    "biomaker": [
+        {
+            "marker": "Bone Mineral Density (BMD)",
+            "category": [
+                "Bone Health"
+            ],
+            "change": [
+                "Statistically Decreased",
+                "Statistically Increased"
+            ],
+            "Protein": "",
+            "status": "unverified"
+        },
+        {
+            "marker": "Alkaline Phosphatase (ALP) mRNA",
+            "category": [
+                "Bone Formation"
+            ],
+            "change": [
+                "Statistically Decreased",
+                "Statistically Increased"
+            ],
+            "Protein": "ALP",
+            "status": "unverified"
+        },
+        {
+            "marker": "Deoxypyridinoline (DPD)",
+            "category": [
+                "Bone Resorption"
+            ],
+            "change": [
+                "Statistically Increased",
+                "Statistically Decreased"
+            ],
+            "Protein": "",
+            "status": "unverified"
+        },
+        {
+            "marker": "Malondialdehyde (MDA)",
+            "category": [
+                "Oxidative Stress"
+            ],
+            "change": [
+                "Statistically Increased",
+                "Statistically Decreased"
+            ],
+            "Protein": "",
+            "status": "unverified"
+        },
+        {
+            "marker": "Total Antioxidant Capacity (TAC)",
+            "category": [
+                "Oxidative Stress"
+            ],
+            "change": [
+                "Statistically Decreased",
+                "Statistically Increased"
+            ],
+            "Protein": "",
+            "status": "unverified"
+        },
+        {
+            "marker": "Total Sulfhydryl (t-SH)",
+            "category": [
+                "Oxidative Stress"
+            ],
+            "change": [
+                "Statistically Decreased",
+                "Statistically Increased"
+            ],
+            "Protein": "",
+            "status": "unverified"
+        },
+        {
+            "marker": "Peroxynitrite (OONO−)",
+            "category": [
+                "Oxidative Stress"
+            ],
+            "change": [
+                "Statistically Increased",
+                "Statistically Decreased"
+            ],
+            "Protein": "",
+            "status": "unverified"
+        },
+        {
+            "marker": "Receptor Activator of Nuclear Factor Kappa B Ligand (RANKL)",
+            "category": [
+                "Bone Resorption"
+            ],
+            "change": [
+                "Divergent"
+            ],
+            "Protein": "RANKL",
+            "status": "unverified"
+        },
+        {
+            "marker": "Osteoprotegerin (OPG)",
+            "category": [
+                "Bone Resorption"
+            ],
+            "change": [
+                "Divergent"
+            ],
+            "Protein": "OPG",
+            "status": "unverified"
+        },
+        {
+            "marker": "RANKL/OPG Ratio",
+            "category": [
+                "Bone Resorption"
+            ],
+            "change": [
+                "Statistically Increased",
+                "Statistically Decreased"
+            ],
+            "Protein": "",
+            "status": "unverified"
+        },
+        {
+            "marker": "Inducible Nitric Oxide Synthase (iNOS)",
+            "category": [
+                "Inflammation",
+                "Oxidative Stress"
+            ],
+            "change": [
+                "Statistically Increased",
+                "Statistically Decreased"
+            ],
+            "Protein": "iNOS",
+            "status": "unverified"
+        },
+        {
+            "marker": "Erk1/2 phosphorylation",
+            "category": [
+                "Cell Signaling"
+            ],
+            "change": [
+                "Statistically Increased",
+                "Statistically Decreased"
+            ],
+            "Protein": "Erk1/2",
+            "status": "unverified"
+        },
+        {
+            "marker": "Runx2 mRNA",
+            "category": [
+                "Bone Formation"
+            ],
+            "change": [
+                "Statistically Decreased",
+                "Statistically Increased"
+            ],
+            "Protein": "Runx2",
+            "status": "unverified"
+        },
+        {
+            "marker": "Cathepsin K (CathK) mRNA",
+            "category": [
+                "Bone Resorption"
+            ],
+            "change": [
+                "Statistically Increased",
+                "Statistically Decreased"
+            ],
+            "Protein": "Cathepsin K",
+            "status": "unverified"
+        },
+        {
+            "marker": "Integrin β3 (Intβ3) mRNA",
+            "category": [
+                "Bone Resorption"
+            ],
+            "change": [
+                "Statistically Increased",
+                "Statistically Decreased"
+            ],
+            "Protein": "Integrin β3",
+            "status": "unverified"
+        },
+        {
+            "marker": "TRAP mRNA",
+            "category": [
+                "Bone Resorption"
+            ],
+            "change": [
+                "Statistically Increased",
+                "Statistically Decreased"
+            ],
+            "Protein": "TRAP",
+            "status": "unverified"
+        }
+    ],
+    "status": "unverified"
+}

@@ -1,0 +1,659 @@
+{
+    "publicData": {
+        "title": {
+            "name": "Hydrogen gas: from clinical medicine to an emerging ergogenic molecule for sports athletes",
+            "status": "unverified"
+        },
+        "pmid": "30970215",
+        "doi": "",
+        "authors": [
+            {
+                "name": "Tyler W. LeBaron",
+                "affiliation": "Molecular Hydrogen Institute, Utah, USA; Centre of Experimental Medicine, Institute for Heart Research, Slovak Academy of Sciences, Bratislava, Slovak Republic",
+                "status": "unverified"
+            },
+            {
+                "name": "Ismail Laher",
+                "affiliation": "Department of Anesthesiology, Pharmacology and Therapeutics, Faculty of Medicine, University of British Columbia, Vancouver, BC, Canada",
+                "status": "unverified"
+            },
+            {
+                "name": "Branislav Kura",
+                "affiliation": "Centre of Experimental Medicine, Institute for Heart Research, Slovak Academy of Sciences, Bratislava, Slovak Republic",
+                "status": "unverified"
+            },
+            {
+                "name": "Jan Slezak",
+                "affiliation": "Centre of Experimental Medicine, Institute for Heart Research, Slovak Academy of Sciences, Bratislava, Slovak Republic",
+                "status": "unverified"
+            }
+        ],
+        "abstract": {
+            "name": "H2 has been clinically demonstrated to provide anti-oxidant and anti-inflammatory effects, which makes it an attractive agent in exercise medicine. Although exercise provides a multiplicity of benefits including decreased risk of disease, it can also have detrimental effects. For example, chronic high-intensity exercise in elite athletes, or sporadic bouts of exercise (i.e. noxious exercise) in untrained individuals, result in similar pathological factors such as inflammation, oxidation and cellular damage that arise from and result in disease. Paradoxically, exercise-induced pro-inflammatory cytokines and reactive oxygen species largely mediate the benefits of exercise. Ingestion of conventional antioxidants and anti-inflammatories often impairs exercise-induced training adaptations. Disease and noxious forms of exercise promote redox dysregulation and chronic inflammation, changes which are mitigated by H2 administration. Beneficial exercise and H2 administration promote cytoprotective hormesis, mitochondrial biogenesis, ATP production, increased NAD+/NADH ratio, cytoprotective phase II enzymes, heat-shock proteins, sirtuins, etc. We review the biomedical effects of exercise and those of H2, and propose that hydrogen may act as an exercise mimetic and redox adaptogen, potentiate the benefits from beneficial exercise, and reduce the harm from noxious exercise. However, more research is warranted to elucidate the potential ergogenic and therapeutic effects of H2 in exercise medicine. ",
+            "status": "unverified"
+        },
+        "year": {
+            "name": "2019",
+            "status": "unverified"
+        },
+        "journal": {
+            "name": "Canadian Journal of Physiology and Pharmacology",
+            "status": "unverified"
+        },
+        "publisher": "",
+        "impactFactor": {
+            "name": 1.491,
+            "status": "unverified"
+        },
+        "HIndex": {
+            "name": 99,
+            "status": "unverified"
+        },
+        "sciMAGO": {
+            "name": "Q3",
+            "status": "unverified"
+        },
+        "volume": "",
+        "issue": "",
+        "pages": {
+            "name": "1-47 (draft)",
+            "status": "unverified"
+        },
+        "country": [
+            {
+                "name": "Canada",
+                "status": "unverified"
+            }
+        ],
+        "grantCountry": {
+            "name": "Slovakia",
+            "status": "unverified"
+        },
+        "researchCountry": [
+            {
+                "name": "USA, Slovakia, Canada",
+                "status": "unverified"
+            }
+        ],
+        "keywords": {
+            "name": "reactive oxygen species, antioxidants, molecular hydrogen, free radicals, exercise, inflammation, redox dysregulation, anti-inflammatory, hormesis, mitochondria",
+            "status": "unverified"
+        },
+        "status": "unverified"
+    },
+    "articleGeneralData": {
+        "outcome": {
+            "name": "Hydrogen gas (H2) demonstrates potential as an ergogenic and therapeutic molecule for sports athletes by selectively reducing excessive oxidative stress and inflammation without impairing beneficial exercise adaptations. H2 may act as an exercise mimetic and redox adaptogen, supporting mitochondrial function, antioxidant status, and recovery, with a high safety profile. More research is needed to confirm its efficacy and optimal administration in exercise medicine.",
+            "status": "unverified"
+        },
+        "outcomeType": [
+            "positive"
+        ],
+        "rankThisArticle": {
+            "name": 90,
+            "status": "unverified"
+        },
+        "HighlightArticle": {
+            "name": true,
+            "status": "unverified"
+        },
+        "descHighArt": {
+            "name": "This review highlights the unique potential of molecular hydrogen as both an ergogenic aid and a redox adaptogen in sports medicine, emphasizing its ability to reduce harmful effects of excessive exercise-induced oxidative stress and inflammation while preserving or enhancing beneficial adaptations. The article synthesizes evidence from both animal and human studies, and proposes hydrogen as a promising, safe, and novel intervention for athletes.",
+            "status": "unverified"
+        },
+        "studyType": [
+            {
+                "name": "Review",
+                "status": "unverified"
+            }
+        ],
+        "NonExperimentalSelect": [
+            {
+                "name": "Review Study Type",
+                "status": "unverified"
+            }
+        ],
+        "ReviewStudyType": {
+            "name": "General",
+            "status": "unverified"
+        },
+        "OpinionPiece": "",
+        "Hypothesis": "",
+        "TherapeuticDeliverySystems": "",
+        "inVivo": [],
+        "selectedStudyTypes": [],
+        "clinicalTrialDesign": [],
+        "observationalStudyObj": [],
+        "durationOfStudy": "",
+        "studyDurationUnit": "",
+        "timingTreatmentInVivo": [],
+        "durationOfStudyinVitro": "",
+        "UnitOfStudyInVitro": "",
+        "timingTreatmentInVitro": [],
+        "WhatCellTissueUsed": "",
+        "durationOfStudyExVivo": "",
+        "UnitOfStudyExVivo": "",
+        "timingTreatmentExVivo": [],
+        "Other": "",
+        "species": [
+            {
+                "name": "Humans",
+                "status": "unverified"
+            },
+            {
+                "name": "Mice",
+                "status": "unverified"
+            },
+            {
+                "name": "Hamster",
+                "status": "unverified"
+            }
+        ],
+        "specieDetails": {
+            "Humans": {
+                "name": {
+                    "name": "Humans",
+                    "status": "unverified"
+                },
+                "status": "unverified",
+                "DescribeSpecies": {
+                    "name": "Review includes human studies on athletes and non-athletes, as well as animal models (mice, horses)",
+                    "status": "unverified"
+                },
+                "subjects": "",
+                "health": {
+                    "name": "Healthy",
+                    "status": "unverified"
+                },
+                "gender": "",
+                "averageAge": "",
+                "ageUnit": "",
+                "averageWeight": "",
+                "weightUnit": ""
+            },
+            "Mice": {
+                "name": {
+                    "name": "Mice",
+                    "status": "unverified"
+                },
+                "status": "unverified",
+                "DescribeSpecies": {
+                    "name": "Animal studies referenced for mechanistic and preclinical data",
+                    "status": "unverified"
+                },
+                "subjects": "",
+                "health": {
+                    "name": "Healthy",
+                    "status": "unverified"
+                },
+                "gender": "",
+                "averageAge": "",
+                "ageUnit": "",
+                "averageWeight": "",
+                "weightUnit": ""
+            },
+            "Hamster": {
+                "name": {
+                    "name": "Hamster",
+                    "status": "unverified"
+                },
+                "status": "unverified",
+                "DescribeSpecies": {
+                    "name": "Animal studies referenced for mechanistic and preclinical data (e.g., horses in exercise studies)",
+                    "status": "unverified"
+                },
+                "subjects": "",
+                "health": {
+                    "name": "Healthy",
+                    "status": "unverified"
+                },
+                "gender": "",
+                "averageAge": "",
+                "ageUnit": "",
+                "averageWeight": "",
+                "weightUnit": ""
+            }
+        },
+        "researchtopic": [
+            {
+                "name": "Health & Wellness / Prevention",
+                "status": "unverified"
+            },
+            {
+                "name": "Exercise",
+                "status": "unverified"
+            },
+            {
+                "name": "Oxidative Stress",
+                "status": "unverified"
+            },
+            {
+                "name": "Hydrogen Therapy",
+                "status": "unverified"
+            },
+            {
+                "name": "Anti-inflammatory",
+                "status": "unverified"
+            },
+            {
+                "name": "Mechanistic-Indirect",
+                "status": "unverified"
+            }
+        ],
+        "diseaseModel": {
+            "name": "Exercise-induced oxidative stress and inflammation (model for disease and athletic overtraining)",
+            "status": "unverified"
+        },
+        "system": [
+            {
+                "name": "Muscular Systems",
+                "status": "unverified"
+            },
+            {
+                "name": "Cardiovascular Systems",
+                "status": "unverified"
+            },
+            {
+                "name": "Nervous Systems",
+                "status": "unverified"
+            },
+            {
+                "name": "Immune System",
+                "status": "unverified"
+            }
+        ],
+        "organ": [
+            {
+                "name": "Muscle",
+                "status": "unverified"
+            },
+            {
+                "name": "Heart",
+                "status": "unverified"
+            },
+            {
+                "name": "Brain",
+                "status": "unverified"
+            },
+            {
+                "name": "Blood",
+                "status": "unverified"
+            }
+        ],
+        "status": "unverified"
+    },
+    "researcherData": {
+        "speciesData": {
+            "Humans": {
+                "HowManyConcentrations": "",
+                "volumes": "",
+                "concentrations": "",
+                "absoluteDoses": "",
+                "relativeDoses": "",
+                "inhalationConcentrations": "",
+                "wasOxyhydrogenUsed": "",
+                "isInhalationOpen": true,
+                "isCellTissueOpen": false,
+                "isIngestionOpen": true,
+                "methods": [
+                    "Oral Hydrogen Water",
+                    "Inhalation"
+                ],
+                "weight": "",
+                "numInhalationConcentrations": "",
+                "topicalMethod": "",
+                "concentrationOfHydrogenForMedium": "",
+                "FrequencyCellCultureTissues": "",
+                "DurationFrequencyCellCultureTissues": "",
+                "Peakbreathhydrogen": "",
+                "Frequency": "",
+                "IngestionDurationfrequency": "",
+                "isOpen": true
+            },
+            "Mice": {
+                "HowManyConcentrations": "",
+                "volumes": "",
+                "concentrations": "",
+                "absoluteDoses": "",
+                "relativeDoses": "",
+                "inhalationConcentrations": "",
+                "wasOxyhydrogenUsed": "",
+                "isInhalationOpen": false,
+                "isCellTissueOpen": false,
+                "isIngestionOpen": true,
+                "methods": [
+                    "Oral Hydrogen Water"
+                ],
+                "weight": "",
+                "numInhalationConcentrations": "",
+                "topicalMethod": "",
+                "concentrationOfHydrogenForMedium": "",
+                "FrequencyCellCultureTissues": "",
+                "DurationFrequencyCellCultureTissues": "",
+                "Peakbreathhydrogen": "",
+                "Frequency": "",
+                "IngestionDurationfrequency": "",
+                "isOpen": true
+            },
+            "Hamster": {
+                "HowManyConcentrations": "",
+                "volumes": "",
+                "concentrations": "",
+                "absoluteDoses": "",
+                "relativeDoses": "",
+                "inhalationConcentrations": "",
+                "wasOxyhydrogenUsed": "",
+                "isInhalationOpen": false,
+                "isCellTissueOpen": false,
+                "isIngestionOpen": true,
+                "methods": [
+                    "Oral Hydrogen Water"
+                ],
+                "weight": "",
+                "numInhalationConcentrations": "",
+                "topicalMethod": "",
+                "concentrationOfHydrogenForMedium": "",
+                "FrequencyCellCultureTissues": "",
+                "DurationFrequencyCellCultureTissues": "",
+                "Peakbreathhydrogen": "",
+                "Frequency": "",
+                "IngestionDurationfrequency": "",
+                "isOpen": true
+            }
+        },
+        "CompMethodAdmin": {
+            "name": true,
+            "status": "unverified"
+        },
+        "CompMethodAdminDesc": {
+            "name": "The review discusses and compares various methods of hydrogen administration, including inhalation, oral ingestion of hydrogen-rich water, intravenous injection of hydrogen-rich saline, and topical application, highlighting their relative efficacy and bioavailability in both animal and human studies.",
+            "status": "unverified"
+        },
+        "doseComparison": {
+            "name": "True",
+            "status": "unverified"
+        },
+        "doseComparisonDesc": {
+            "name": "The review notes that the amount of hydrogen administered varies by method (e.g., 1.5 L of ~1 mM hydrogen-rich water, inhalation of 2-4% H2 gas), and discusses that higher doses via inhalation may not always be more effective than oral ingestion, suggesting a dose/concentration-dependent effect.",
+            "status": "unverified"
+        },
+        "drugComparison": {
+            "name": "True",
+            "status": "unverified"
+        },
+        "comparisonDetail": {
+            "name": "The article compares hydrogen therapy to conventional antioxidants and anti-inflammatories, noting that hydrogen selectively reduces excessive oxidative stress and inflammation without impairing beneficial exercise adaptations, unlike traditional supplements which may blunt training benefits.",
+            "status": "unverified"
+        },
+        "pharmacokinetics": {
+            "name": "True",
+            "status": "unverified"
+        },
+        "pharmacokineticsDescription": {
+            "name": "The review discusses the high bioavailability of molecular hydrogen due to its small size and rapid diffusion, and compares the pharmacokinetics of different administration routes (e.g., inhalation vs. oral ingestion).",
+            "status": "unverified"
+        },
+        "isERW": {
+            "name": "True",
+            "status": "unverified"
+        },
+        "ph": "",
+        "erwCompared": "",
+        "adverseEffects": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "adverseEffectsDescription": {
+            "name": "No adverse effects reported in human or animal studies, even at high concentrations of hydrogen gas.",
+            "status": "unverified"
+        },
+        "doseDependentEffect": {
+            "name": "True",
+            "status": "unverified"
+        },
+        "safetyProfile": {
+            "name": "True",
+            "status": "unverified"
+        },
+        "safetyofhydrogen": {
+            "name": true,
+            "status": "unverified"
+        },
+        "sexDifference": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "responderDifference": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "pregnantBreastfeeding": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "mechanisticInsights": {
+            "name": "True",
+            "status": "unverified"
+        },
+        "Video_WebpageLink": "",
+        "PasteUrl": {
+            "name": "https://mc06.manuscriptcentral.com/cjpp-pubs",
+            "status": "unverified"
+        },
+        "commercialProduct": {
+            "name": "Yes",
+            "status": "unverified"
+        },
+        "brandName": "",
+        "geneExpression": {
+            "name": "True",
+            "status": "unverified"
+        },
+        "geneExpressionDesc": {
+            "name": "Hydrogen administration upregulates endogenous antioxidant enzymes (e.g., SOD, GSH, CAT), activates Nrf2 pathway, increases Sirt3 expression, and modulates inflammatory gene expression.",
+            "status": "unverified"
+        },
+        "status": "unverified"
+    },
+    "biomaker": [
+        {
+            "marker": "SOD (superoxide dismutase)",
+            "category": [
+                "Antioxidant Enzyme"
+            ],
+            "change": [
+                "Statistically Increased"
+            ],
+            "Protein": "SOD",
+            "status": "unverified"
+        },
+        {
+            "marker": "GSH (glutathione)",
+            "category": [
+                "Antioxidant Enzyme"
+            ],
+            "change": [
+                "Statistically Increased"
+            ],
+            "Protein": "GSH",
+            "status": "unverified"
+        },
+        {
+            "marker": "CAT (catalase)",
+            "category": [
+                "Antioxidant Enzyme"
+            ],
+            "change": [
+                "Statistically Increased"
+            ],
+            "Protein": "CAT",
+            "status": "unverified"
+        },
+        {
+            "marker": "GPx (glutathione peroxidase)",
+            "category": [
+                "Antioxidant Enzyme"
+            ],
+            "change": [
+                "Statistically Increased"
+            ],
+            "Protein": "GPx",
+            "status": "unverified"
+        },
+        {
+            "marker": "Nrf2",
+            "category": [
+                "Transcription Factor"
+            ],
+            "change": [
+                "Statistically Increased"
+            ],
+            "Protein": "Nrf2",
+            "status": "unverified"
+        },
+        {
+            "marker": "HO-1 (heme oxygenase-1)",
+            "category": [
+                "Antioxidant Enzyme"
+            ],
+            "change": [
+                "Statistically Increased"
+            ],
+            "Protein": "HO-1",
+            "status": "unverified"
+        },
+        {
+            "marker": "BDNF (brain-derived neurotrophic factor)",
+            "category": [
+                "Neurotrophic Factor"
+            ],
+            "change": [
+                "Statistically Increased"
+            ],
+            "Protein": "BDNF",
+            "status": "unverified"
+        },
+        {
+            "marker": "PGC1-α (peroxisome proliferator-activated receptor-γ coactivator-1α)",
+            "category": [
+                "Mitochondrial Biogenesis"
+            ],
+            "change": [
+                "Statistically Increased"
+            ],
+            "Protein": "PGC1-α",
+            "status": "unverified"
+        },
+        {
+            "marker": "ATP",
+            "category": [
+                "Mitochondrial Function"
+            ],
+            "change": [
+                "Statistically Increased"
+            ],
+            "Protein": "ATP",
+            "status": "unverified"
+        },
+        {
+            "marker": "MDA (malondialdehyde)",
+            "category": [
+                "Oxidative Stress Marker"
+            ],
+            "change": [
+                "Statistically Decreased"
+            ],
+            "Protein": "MDA",
+            "status": "unverified"
+        },
+        {
+            "marker": "8-OHdG (8-hydroxy-2′-deoxyguanine)",
+            "category": [
+                "DNA Oxidative Damage Marker"
+            ],
+            "change": [
+                "Statistically Decreased"
+            ],
+            "Protein": "8-OHdG",
+            "status": "unverified"
+        },
+        {
+            "marker": "TBARS (thiobarbituric acid reactive substances)",
+            "category": [
+                "Oxidative Stress Marker"
+            ],
+            "change": [
+                "Statistically Decreased"
+            ],
+            "Protein": "TBARS",
+            "status": "unverified"
+        },
+        {
+            "marker": "IL-6 (interleukin-6)",
+            "category": [
+                "Inflammatory Cytokine"
+            ],
+            "change": [
+                "Statistically Decreased"
+            ],
+            "Protein": "IL-6",
+            "status": "unverified"
+        },
+        {
+            "marker": "TNF-α (tumor necrosis factor-alpha)",
+            "category": [
+                "Inflammatory Cytokine"
+            ],
+            "change": [
+                "Statistically Decreased"
+            ],
+            "Protein": "TNF-α",
+            "status": "unverified"
+        },
+        {
+            "marker": "COX-2 (cyclooxygenase-2)",
+            "category": [
+                "Inflammatory Enzyme"
+            ],
+            "change": [
+                "Statistically Decreased"
+            ],
+            "Protein": "COX-2",
+            "status": "unverified"
+        },
+        {
+            "marker": "NF-κB (nuclear factor kappa B)",
+            "category": [
+                "Transcription Factor"
+            ],
+            "change": [
+                "Statistically Decreased"
+            ],
+            "Protein": "NF-κB",
+            "status": "unverified"
+        },
+        {
+            "marker": "NLRP3",
+            "category": [
+                "Inflammasome Component"
+            ],
+            "change": [
+                "Statistically Decreased"
+            ],
+            "Protein": "NLRP3",
+            "status": "unverified"
+        },
+        {
+            "marker": "Sirt3",
+            "category": [
+                "Mitochondrial Protein"
+            ],
+            "change": [
+                "Statistically Increased"
+            ],
+            "Protein": "Sirt3",
+            "status": "unverified"
+        }
+    ],
+    "status": "unverified"
+}

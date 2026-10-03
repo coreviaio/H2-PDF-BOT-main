@@ -1,0 +1,460 @@
+{
+    "data": {
+        "articleGeneralData": {
+            "HighlightArticle": {
+                "name": true,
+                "status": "unverified"
+            },
+            "Hypothesis": "",
+            "NonExperimentalSelect": [],
+            "OpinionPiece": "",
+            "Other": "",
+            "ReviewStudyType": "",
+            "TherapeuticDeliverySystems": "",
+            "UnitOfStudyExVivo": "",
+            "UnitOfStudyInVitro": "",
+            "WhatCellTissueUsed": "",
+            "clinicalTrialDesign": [
+                "Randomized",
+                "Single-Blinded",
+                "Controlled"
+            ],
+            "descHighArt": {
+                "name": "This is one of the first clinical studies to show that oral and topical hydrogen can enhance recovery (plasma viscosity and joint flexibility) in sports-related soft tissue injuries in professional athletes, suggesting a novel adjunctive therapy.",
+                "status": "unverified"
+            },
+            "diseaseModel": {
+                "name": "Sports-related soft tissue injury (muscle sprain, ligament strain, tendonitis, contusion)",
+                "status": "unverified"
+            },
+            "durationOfStudy": {
+                "name": 2.0,
+                "status": "unverified"
+            },
+            "durationOfStudyExVivo": "",
+            "durationOfStudyinVitro": "",
+            "inVivo": [
+                {
+                    "name": "Human",
+                    "status": "unverified"
+                }
+            ],
+            "observationalStudyObj": [],
+            "organ": [
+                {
+                    "name": "Muscle",
+                    "status": "unverified"
+                },
+                {
+                    "name": "Miscellaneous",
+                    "status": "unverified"
+                }
+            ],
+            "outcome": {
+                "name": "Oral and topical hydrogen administration for 2 weeks in male professional athletes with acute soft tissue injuries augmented plasma viscosity decrease and enhanced recovery of joint flexibility compared to traditional treatment alone. No significant differences were found for CRP, IL-6, pain scores, or limb swelling, but range of motion recovery was faster with hydrogen. Mild diarrhea was reported in two participants; no serious adverse events occurred.",
+                "status": "unverified"
+            },
+            "outcomeType": [
+                "positive"
+            ],
+            "rankThisArticle": {
+                "name": 80,
+                "status": "unverified"
+            },
+            "researchtopic": [
+                {
+                    "name": "Inflammatory Disorders",
+                    "status": "unverified"
+                },
+                {
+                    "name": "Health & Wellness / Prevention",
+                    "status": "unverified"
+                },
+                {
+                    "name": "Hydrogen Therapy",
+                    "status": "unverified"
+                },
+                {
+                    "name": "Anti-inflammatory",
+                    "status": "unverified"
+                }
+            ],
+            "selectedStudyTypes": [
+                "Clinical Trial Design"
+            ],
+            "studyDurationUnit": "weeks",
+            "studyType": [
+                {
+                    "name": "In Vivo",
+                    "status": "unverified"
+                }
+            ],
+            "system": [
+                {
+                    "name": "Musculoskeletal System",
+                    "status": "unverified"
+                },
+                {
+                    "name": "General",
+                    "status": "unverified"
+                }
+            ],
+            "timingTreatmentExVivo": [],
+            "timingTreatmentInVitro": [],
+            "timingTreatmentInVivo": [
+                {
+                    "name": "Post-treatment",
+                    "status": "unverified"
+                }
+            ]
+        },
+        "biomaker": [
+            {
+                "Change": [
+                    "Decreasing Trend"
+                ],
+                "Protein": "CRP",
+                "category": [
+                    "Inflammatory Marker"
+                ],
+                "marker": "C-reactive protein (CRP)"
+            },
+            {
+                "Change": [
+                    "Decreasing Trend"
+                ],
+                "Protein": "IL-6",
+                "category": [
+                    "Inflammatory Marker"
+                ],
+                "marker": "Interleukin-6 (IL-6)"
+            },
+            {
+                "Change": [
+                    "Statistically Decreased"
+                ],
+                "Protein": "N/A",
+                "category": [
+                    "Inflammatory Marker"
+                ],
+                "marker": "Plasma viscosity"
+            }
+        ],
+        "publicData": {
+            "HIndex": "",
+            "abstract": {
+                "name": "Background: Because hydrogen therapy has been found beneficial for the treatment of inflam­mation, ischemia-reperfusion injury, and oxidative stress in humans, it seems useful to evaluate the effects of exogenously administered hydrogen as an element in the immediate management of sports-related soft tissue injuries. The main aim of this pilot study was to examine the effects of 2-week administration of hydrogen on the biochemical markers of inflammation and func­tional recovery in male professional athletes after acute soft tissue injury. Method: During the 2013 season (from March to May), 36 professional athletes were recruited as participants and examined by a certified sports medicine specialist in the first 24 hours after an injury was sus­tained. Subjects were allocated to 3 randomly assigned trials in a single-blind design. Those in the control group received a traditional treatment protocol for soft tissue injury. Subjects in the first experimental group followed the same procedures as the control group but with additional administration throughout the study of oral hydrogen-rich tablets (2 g per day). Subjects in the second experimental group also followed the procedures of the control group, with additional administration throughout the study of both oral hydrogen-rich tablets (2 g per day) and topical hydrogen-rich packs (6 times per day for 20 minutes). Participants were evaluated at the time of the injury report and at 7 and 14 days after baseline testing. Results: Oral and topical hydrogen intervention was found to augment plasma viscosity decrease as compared with the control group (P = 0.04). Differences were found for range-of-motion recovery between the 3 groups; oral and topical hydrogen intervention resulted in a faster return to normal joint range of motion for both flexion and extension of the injured limb as compared with the control intervention (P , 0.05). Conclusion: These preliminary results support the hypothesis that the addition of hydrogen to traditional treatment protocols is potentially effective in the treatment of soft tissue injuries in male professional athletes. Trial identification: Clinicaltrials.gov number NCT01759498.",
+                "status": "unverified"
+            },
+            "authors": [
+                {
+                    "affiliation": "Center for Health, Exercise, and Sport Sciences, Stari DIF, Belgrade, Serbia; Faculty of Sport and Physical Education, University of Novi Sad, Novi Sad, Serbia",
+                    "name": "Sergej M. Ostojic, MD, PhD",
+                    "status": "unverified"
+                },
+                {
+                    "affiliation": "Center for Health, Exercise, and Sport Sciences, Stari DIF, Belgrade, Serbia; Institute of Orthopaedic-Surgical Diseases “Banjica,” Belgrade, Serbia",
+                    "name": "Boris Vukomanovic, MD",
+                    "status": "unverified"
+                },
+                {
+                    "affiliation": "Center for Health, Exercise, and Sport Sciences, Stari DIF, Belgrade, Serbia; Faculty of Sport Sciences, University of the Basque Country, Vitoria-Gasteiz, Spain",
+                    "name": "Julio Calleja-Gonzalez, PhD",
+                    "status": "unverified"
+                },
+                {
+                    "affiliation": "Institute of Exercise Physiology and Wellness, University of Central Florida, Orlando, FL",
+                    "name": "Jay R. Hoffman, PhD, FACSM, FNSCA",
+                    "status": "unverified"
+                }
+            ],
+            "country": [
+                {
+                    "name": "Serbia",
+                    "status": "unverified"
+                }
+            ],
+            "doi": {
+                "name": "10.3810/pgm.2014.09.2813",
+                "status": "unverified"
+            },
+            "grantCountry": {
+                "name": "Serbia, USA",
+                "status": "unverified"
+            },
+            "impactFactor": "",
+            "issue": {
+                "name": "5",
+                "status": "unverified"
+            },
+            "journal": {
+                "name": "Postgraduate Medicine",
+                "status": "unverified"
+            },
+            "keywords": {
+                "name": "plasma viscosity, interleukin-6, range of motion, RICE protocol, hydrogen",
+                "status": "unverified"
+            },
+            "pages": {
+                "name": "188-196",
+                "status": "unverified"
+            },
+            "pmid": {
+                "name": "25295663",
+                "status": "unverified"
+            },
+            "publisher": {
+                "name": "JTE Multimedia, LLC",
+                "status": "unverified"
+            },
+            "researchCountry": [
+                {
+                    "name": "Serbia",
+                    "status": "unverified"
+                }
+            ],
+            "sciMAGO": "",
+            "title": {
+                "name": "Effectiveness of Oral and Topical Hydrogen for Sports-Related Soft Tissue Injuries",
+                "status": "unverified"
+            },
+            "volume": {
+                "name": "126",
+                "status": "unverified"
+            },
+            "year": {
+                "name": "2014",
+                "status": "unverified"
+            }
+        },
+        "researcherData": {
+            "CompMethodAdmin": {
+                "name": true,
+                "status": "unverified"
+            },
+            "CompMethodAdminDesc": {
+                "name": "The study compared traditional treatment alone, traditional treatment plus oral hydrogen, and traditional treatment plus both oral and topical hydrogen.",
+                "status": "unverified"
+            },
+            "DurationFrequencyCellCultureTissues": "",
+            "Frequency": "EXPLAINATION REQUIRED (frequency of what exactly?)",
+            "FrequencyCellCultureTissues": "",
+            "HowManyConcentrations": {
+                "name": 1,
+                "status": "unverified"
+            },
+            "IngestionDurationfrequency": "EXPLAINATION REQUIRED (unit of what)",
+            "PasteUrl": "",
+            "Peakbreathhydrogen": "",
+            "Video_WebpageLink": "",
+            "absoluteDoses": [
+                {
+                    "unit": {
+                        "name": "ug/day",
+                        "status": "unverified"
+                    },
+                    "value": {
+                        "name": 2000.0,
+                        "status": "unverified"
+                    }
+                }
+            ],
+            "absoluteDoses_0_unit": {
+                "name": "ug/day",
+                "status": "unverified"
+            },
+            "absoluteDoses_0_value": {
+                "name": 2000.0,
+                "status": "unverified"
+            },
+            "adverseEffects": {
+                "name": "True",
+                "status": "unverified"
+            },
+            "adverseEffectsDescription": {
+                "name": "Two participants in the oral hydrogen group reported mild diarrhea during the first 2 days; no serious adverse events occurred.",
+                "status": "unverified"
+            },
+            "bodyWeight": "75 kg",
+            "brandName": {
+                "name": "SevenPoint2 (7.2 Recovery with HydroFX) for oral tablets; NORP Inc. for topical packs",
+                "status": "unverified"
+            },
+            "commercialProduct": {
+                "name": "Yes",
+                "status": "unverified"
+            },
+            "comparisonDetail": {
+                "name": "Hydrogen (oral and topical) was compared as an adjunct to standard RICE protocol (rest, ice, compression, elevation) for soft tissue injury.",
+                "status": "unverified"
+            },
+            "concentrationOfHydrogenForMedium": {
+                "name": {
+                    "name": "N/A",
+                    "status": "unverified"
+                },
+                "status": "unverified"
+            },
+            "concentration_0_unit": {
+                "name": "mg/L",
+                "status": "unverified"
+            },
+            "concentration_0_value": {
+                "name": 0.0,
+                "status": "unverified"
+            },
+            "concentrations": [
+                {
+                    "unit": {
+                        "name": "mg/L",
+                        "status": "unverified"
+                    },
+                    "value": {
+                        "name": 0.0,
+                        "status": "unverified"
+                    }
+                }
+            ],
+            "doseComparison": {
+                "name": "false",
+                "status": "unverified"
+            },
+            "doseComparisonDesc": {
+                "name": "No explicit dose/concentration comparison; all hydrogen groups received the same dose.",
+                "status": "unverified"
+            },
+            "doseDependentEffect": {
+                "name": "No",
+                "status": "unverified"
+            },
+            "drugComparison": {
+                "name": "true",
+                "status": "unverified"
+            },
+            "erwCompared": "",
+            "geneExpression": {
+                "name": "False",
+                "status": "unverified"
+            },
+            "geneExpressionDesc": "",
+            "inhalationConcentrations": [],
+            "isERW": {
+                "name": "false",
+                "status": "unverified"
+            },
+            "mechanisticInsights": {
+                "name": "No",
+                "status": "unverified"
+            },
+            "methodOfAdmin": [
+                {
+                    "name": "Oral Hydrogen Water",
+                    "status": "unverified"
+                },
+                {
+                    "name": "Topical Application",
+                    "status": "unverified"
+                }
+            ],
+            "numInhalationConcentrations": 0,
+            "ph": "",
+            "pharmacokinetics": {
+                "name": "false",
+                "status": "unverified"
+            },
+            "pharmacokineticsDescription": {
+                "name": "Pharmacokinetics of hydrogen not studied.",
+                "status": "unverified"
+            },
+            "pregnantBreastfeeding": {
+                "name": "No",
+                "status": "unverified"
+            },
+            "relativeDoses": [
+                {
+                    "unit": {
+                        "name": "ug/kg/day",
+                        "status": "unverified"
+                    },
+                    "value": {
+                        "name": 0.0,
+                        "status": "unverified"
+                    }
+                },
+                {
+                    "unit": {
+                        "name": "ug/kg/day",
+                        "status": "unverified"
+                    },
+                    "value": {
+                        "name": 0.0,
+                        "status": "unverified"
+                    }
+                }
+            ],
+            "relativeDoses_0_unit": {
+                "name": "ug/kg/day",
+                "status": "unverified"
+            },
+            "relativeDoses_0_value": {
+                "name": 0.0,
+                "status": "unverified"
+            },
+            "relativeDoses_1_unit": {
+                "name": "ug/kg/day",
+                "status": "unverified"
+            },
+            "relativeDoses_1_value": {
+                "name": 0.0,
+                "status": "unverified"
+            },
+            "responderDifference": {
+                "name": "No",
+                "status": "unverified"
+            },
+            "safetyProfile": {
+                "name": "No",
+                "status": "unverified"
+            },
+            "safetyofhydrogen": {
+                "name": false,
+                "status": "unverified"
+            },
+            "sexDifference": {
+                "name": "No (all male participants)",
+                "status": "unverified"
+            },
+            "topical_how": "EXPLAINATION REQUIRED (unit of what)",
+            "unitDuration": "EXPLAINATION REQUIRED (unit of what)",
+            "volume_0_unit": {
+                "name": "mL",
+                "status": "unverified"
+            },
+            "volume_0_value": {
+                "name": 0.0,
+                "status": "unverified"
+            },
+            "volumes": [
+                {
+                    "unit": {
+                        "name": "mL",
+                        "status": "unverified"
+                    },
+                    "value": {
+                        "name": 0.0,
+                        "status": "unverified"
+                    }
+                }
+            ],
+            "wasOxyhydrogenUsed": {
+                "name": {
+                    "name": "No",
+                    "status": "unverified"
+                },
+                "status": "unverified"
+            }
+        }
+    },
+    "message": "File processed successfully",
+    "success": true
+}

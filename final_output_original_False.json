@@ -1,0 +1,72 @@
+{
+    "step_1": {
+        "title": "Lorem ipsum",
+        "authors": [
+            {
+                "name": "Unknown",
+                "affiliation": "Unknown"
+            }
+        ],
+        "authorCountries": [
+            null
+        ],
+        "doi": null,
+        "country": null,
+        "researchCountry": null,
+        "grantCountry": null,
+        "year": null,
+        "abstract": "Lorem ipsum dolor sit amet, consectetur adipiscing \nelit. Nunc ac faucibus odio. \nVestibulum neque massa, scelerisque sit amet ligula eu, congue molestie mi. Praesent ut\nvarius sem. Nullam at porttitor arcu, nec lacinia nisi. Ut ac dolor vitae odio interdum\ncondimentum.  Vivamus  dapibus  sodales  ex,  vitae  malesuada  ipsum  cursus\nconvallis. Maecenas sed egestas nulla, ac condimentum orci.  Mauris diam felis,\nvulputate ac suscipit et, iaculis non est. Curabitur semper arcu ac ligula semper, nec luctus\nnisl blandit. Integer lacinia ante ac libero lobortis imperdiet. Nullam mollis convallis ipsum,\nac accumsan nunc vehicula vitae. Nulla eget justo in felis tristique fringilla. Morbi sit amet\ntortor quis risus auctor condimentum. Morbi in ullamcorper elit. Nulla iaculis tellus sit amet\nmauris tempus fringilla.\nMaecenas mauris lectus, lobortis et purus mattis, blandit dictum tellus.\n\nMaecenas non lorem quis tellus placerat varius. \n\nNulla facilisi. \n\nAenean congue fringilla justo ut aliquam. \n\nMauris id ex erat. Nunc vulputate neque vitae justo facilisis, non condimentum ante\nsagittis. \n\nMorbi viverra semper lorem nec molestie. \n\nMaecenas tincidunt est efficitur ligula euismod, sit amet ornare est vulputate.\nRow 1\nRow 2\nRow 3\nRow 4\n0\n2\n4\n6\n8\n10\n12\nColumn 1\nColumn 2\nColumn 3\n\nIn non mauris justo. Duis vehicula mi vel mi pretium, a viverra erat efficitur. Cras aliquam\nest ac eros varius, id iaculis dui auctor. Duis pretium neque ligula, et pulvinar mi placerat\net. Nulla nec nunc sit amet nunc posuere vestibulum. Ut id neque eget tortor mattis\ntristique. Donec ante est, blandit sit amet tristique vel, lacinia pulvinar arcu. Pellentesque\nscelerisque fermentum erat, id posuere justo pulvinar ut. Cras id eros sed enim aliquam\nlobortis. Sed lobortis nisl ut eros efficitur tincidunt. Cras justo mi, porttitor quis mattis vel,\nultricies ut purus. Ut facilisis et lacus eu cursus.\nIn eleifend velit vitae libero sollicitudin euismod. Fusce vitae vestibulum velit. Pellentesque\nvulputate lectus quis pellentesque commodo. Aliquam erat volutpat. Vestibulum in egestas\nvelit. Pellentesque fermentum nisl vitae fringilla venenatis. Etiam id mauris vitae orci\nmaximus ultricies. \nCras fringilla ipsum magna, in fringilla dui commodo \na.",
+        "volume": null,
+        "journal": null,
+        "journalURL": null,
+        "publisher": null,
+        "pmid": [],
+        "impactFactor": null,
+        "HIndex": null,
+        "sciMAGO": null,
+        "pages": null,
+        "issue": null,
+        "keywords": null
+    },
+    "step_2": {
+        "outcome": {
+            "text": "The article contains placeholder text and does not present any scientific outcome.",
+            "outcomeType": "neutral",
+            "rank": 0
+        },
+        "HighlightArticle": null,
+        "studyType": [
+            "Other"
+        ],
+        "studyTypeDetails": [
+            {
+                "study_category": "Other",
+                "description": "This article is placeholder text (Lorem Ipsum) and does not describe any experimental or review methodology."
+            }
+        ],
+        "researchtopic": null,
+        "diseaseModel": null,
+        "system": null,
+        "organ": null
+    },
+    "step_3": {
+        "methods_without_Specie": [],
+        "MethodsDetails": null,
+        "wasOxyhydrogenUsed": null,
+        "numInhalationConcentrations": null,
+        "concentrationOfHydrogenForMedium": null,
+        "comparison_of_methods_flag": null,
+        "comparison_of_methods_description": null,
+        "dose_concentration_comparison_flag": null,
+        "dose_concentration_comparison_description": null,
+        "drug_therapy_supplement_comparison_flag": null,
+        "drug_therapy_supplement_comparison": null,
+        "pharmacokinetics_flag": null,
+        "pharmacokinetics": null,
+        "erw": null,
+        "miscellaneous": null
+    },
+    "step_4": {
+        "biomarkers": []
+    }
+}

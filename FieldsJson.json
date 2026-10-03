@@ -1,0 +1,4244 @@
+{
+    "status": true,
+    "data": {
+        "study_type": [
+            {
+                "id": 26,
+                "name": "Chemical/Physicochemical Study",
+                "created_at": "2024-11-22T20:52:34.000000Z",
+                "updated_at": "2024-11-26T12:36:22.000000Z"
+            },
+            {
+                "id": 23,
+                "name": "Ex Vivo",
+                "created_at": "2024-11-12T21:56:50.000000Z",
+                "updated_at": "2024-11-12T21:56:50.000000Z"
+            },
+            {
+                "id": 28,
+                "name": "In Silico",
+                "created_at": "2024-11-26T12:35:04.000000Z",
+                "updated_at": "2024-11-26T12:35:04.000000Z"
+            },
+            {
+                "id": 9,
+                "name": "In Vitro",
+                "created_at": "2024-10-17T13:21:04.000000Z",
+                "updated_at": "2024-12-05T20:35:13.000000Z"
+            },
+            {
+                "id": 7,
+                "name": "in Vivo",
+                "created_at": "2024-10-17T13:17:45.000000Z",
+                "updated_at": "2024-10-17T13:17:45.000000Z"
+            },
+            {
+                "id": 24,
+                "name": "Non-experimental",
+                "created_at": "2024-11-12T22:05:06.000000Z",
+                "updated_at": "2024-11-12T22:05:06.000000Z"
+            },
+            {
+                "id": 25,
+                "name": "Other",
+                "created_at": "2024-11-19T23:04:22.000000Z",
+                "updated_at": "2024-11-19T23:04:22.000000Z"
+            }
+        ],
+        "species": [
+            {
+                "id": 29,
+                "name": "Adult Pig",
+                "parent_id": null,
+                "created_at": "2024-11-19T17:28:38.000000Z",
+                "updated_at": "2024-11-19T17:28:38.000000Z"
+            },
+            {
+                "id": 28,
+                "name": "Animal",
+                "parent_id": null,
+                "created_at": "2024-11-13T21:14:31.000000Z",
+                "updated_at": "2024-11-13T21:14:31.000000Z"
+            },
+            {
+                "id": 6,
+                "name": "Cats",
+                "parent_id": null,
+                "created_at": "2024-10-01T14:39:07.000000Z",
+                "updated_at": "2024-10-01T14:39:07.000000Z"
+            },
+            {
+                "id": 1,
+                "name": "Dogs",
+                "parent_id": null,
+                "created_at": "2024-10-01T14:10:48.000000Z",
+                "updated_at": "2025-04-07T20:51:54.000000Z"
+            },
+            {
+                "id": 10,
+                "name": "Drosophila",
+                "parent_id": null,
+                "created_at": "2024-10-01T14:39:38.000000Z",
+                "updated_at": "2024-10-01T14:39:38.000000Z"
+            },
+            {
+                "id": 11,
+                "name": "Fish",
+                "parent_id": null,
+                "created_at": "2024-10-01T14:39:45.000000Z",
+                "updated_at": "2024-10-01T14:39:45.000000Z"
+            },
+            {
+                "id": 15,
+                "name": "Frogs",
+                "parent_id": null,
+                "created_at": "2024-10-01T14:40:01.000000Z",
+                "updated_at": "2024-10-01T14:40:01.000000Z"
+            },
+            {
+                "id": 27,
+                "name": "General",
+                "parent_id": null,
+                "created_at": "2024-11-12T22:43:42.000000Z",
+                "updated_at": "2024-11-12T22:43:42.000000Z"
+            },
+            {
+                "id": 7,
+                "name": "Guinea Pigs",
+                "parent_id": null,
+                "created_at": "2024-10-01T14:39:14.000000Z",
+                "updated_at": "2024-10-01T14:39:14.000000Z"
+            },
+            {
+                "id": 8,
+                "name": "Hamster",
+                "parent_id": null,
+                "created_at": "2024-10-01T14:39:21.000000Z",
+                "updated_at": "2024-10-01T14:39:21.000000Z"
+            },
+            {
+                "id": 45,
+                "name": "Healthy",
+                "parent_id": null,
+                "created_at": "2025-03-04T16:47:23.000000Z",
+                "updated_at": "2025-03-04T16:47:23.000000Z"
+            },
+            {
+                "id": 43,
+                "name": "HeLa cell",
+                "parent_id": null,
+                "created_at": "2025-02-28T19:29:11.000000Z",
+                "updated_at": "2025-02-28T19:29:11.000000Z"
+            },
+            {
+                "id": 42,
+                "name": "Human Bone",
+                "parent_id": null,
+                "created_at": "2025-02-27T19:51:38.000000Z",
+                "updated_at": "2025-02-27T19:51:38.000000Z"
+            },
+            {
+                "id": 44,
+                "name": "Human cells",
+                "parent_id": null,
+                "created_at": "2025-03-03T21:10:08.000000Z",
+                "updated_at": "2025-03-03T21:10:08.000000Z"
+            },
+            {
+                "id": 2,
+                "name": "Humans",
+                "parent_id": null,
+                "created_at": "2024-10-01T14:37:12.000000Z",
+                "updated_at": "2024-10-01T14:38:37.000000Z"
+            },
+            {
+                "id": 3,
+                "name": "Mice",
+                "parent_id": null,
+                "created_at": "2024-10-01T14:38:50.000000Z",
+                "updated_at": "2025-04-07T20:52:05.000000Z"
+            },
+            {
+                "id": 9,
+                "name": "Non-Human Primates",
+                "parent_id": null,
+                "created_at": "2024-10-01T14:39:31.000000Z",
+                "updated_at": "2024-10-01T14:39:31.000000Z"
+            },
+            {
+                "id": 4,
+                "name": "Pigs",
+                "parent_id": null,
+                "created_at": "2024-10-01T14:38:57.000000Z",
+                "updated_at": "2024-10-01T14:38:57.000000Z"
+            },
+            {
+                "id": 12,
+                "name": "Plants",
+                "parent_id": null,
+                "created_at": "2024-10-01T14:39:49.000000Z",
+                "updated_at": "2024-10-01T14:39:49.000000Z"
+            },
+            {
+                "id": 40,
+                "name": "Porcine cartilage",
+                "parent_id": null,
+                "created_at": "2025-02-27T18:59:49.000000Z",
+                "updated_at": "2025-02-27T18:59:49.000000Z"
+            },
+            {
+                "id": 13,
+                "name": "Rabbit",
+                "parent_id": null,
+                "created_at": "2024-10-01T14:39:52.000000Z",
+                "updated_at": "2024-10-01T14:39:52.000000Z"
+            },
+            {
+                "id": 41,
+                "name": "Rat meniscus fibrecartilage",
+                "parent_id": null,
+                "created_at": "2025-02-27T18:59:53.000000Z",
+                "updated_at": "2025-02-27T18:59:53.000000Z"
+            },
+            {
+                "id": 46,
+                "name": "Rat Neural Cells",
+                "parent_id": null,
+                "created_at": "2025-03-04T18:28:31.000000Z",
+                "updated_at": "2025-03-04T18:28:31.000000Z"
+            },
+            {
+                "id": 5,
+                "name": "Rats",
+                "parent_id": null,
+                "created_at": "2024-10-01T14:39:03.000000Z",
+                "updated_at": "2024-10-01T14:39:03.000000Z"
+            },
+            {
+                "id": 14,
+                "name": "Sheep",
+                "parent_id": null,
+                "created_at": "2024-10-01T14:39:57.000000Z",
+                "updated_at": "2024-10-01T14:39:57.000000Z"
+            },
+            {
+                "id": 39,
+                "name": "Sprague-Dawley",
+                "parent_id": null,
+                "created_at": "2025-02-27T00:28:53.000000Z",
+                "updated_at": "2025-02-27T00:28:53.000000Z"
+            },
+            {
+                "id": 47,
+                "name": "Wistar",
+                "parent_id": null,
+                "created_at": "2025-03-05T20:49:46.000000Z",
+                "updated_at": "2025-03-05T20:49:46.000000Z"
+            }
+        ],
+        "organs": [
+            {
+                "id": 24,
+                "name": "Adipose",
+                "created_at": "2024-10-17T17:14:20.000000Z",
+                "updated_at": "2024-10-17T17:14:20.000000Z"
+            },
+            {
+                "id": 34,
+                "name": "Adrenal glands",
+                "created_at": "2024-11-04T18:18:02.000000Z",
+                "updated_at": "2024-11-04T18:18:02.000000Z"
+            },
+            {
+                "id": 51,
+                "name": "Aortic valves",
+                "created_at": "2025-02-27T20:57:57.000000Z",
+                "updated_at": "2025-02-27T20:57:57.000000Z"
+            },
+            {
+                "id": 30,
+                "name": "Bladder",
+                "created_at": "2024-11-04T18:16:57.000000Z",
+                "updated_at": "2024-11-04T18:16:57.000000Z"
+            },
+            {
+                "id": 25,
+                "name": "Blood",
+                "created_at": "2024-10-17T17:14:34.000000Z",
+                "updated_at": "2024-10-17T17:14:34.000000Z"
+            },
+            {
+                "id": 20,
+                "name": "Blood Vessels",
+                "created_at": "2024-10-17T17:13:57.000000Z",
+                "updated_at": "2024-10-17T17:13:57.000000Z"
+            },
+            {
+                "id": 2,
+                "name": "Bone",
+                "created_at": "2024-10-17T17:12:03.000000Z",
+                "updated_at": "2024-10-17T17:12:03.000000Z"
+            },
+            {
+                "id": 3,
+                "name": "Brain",
+                "created_at": "2024-10-17T17:12:07.000000Z",
+                "updated_at": "2024-10-17T17:12:07.000000Z"
+            },
+            {
+                "id": 23,
+                "name": "Cartilage",
+                "created_at": "2024-10-17T17:14:16.000000Z",
+                "updated_at": "2024-10-17T17:14:16.000000Z"
+            },
+            {
+                "id": 58,
+                "name": "Cells only",
+                "created_at": "2025-03-03T20:08:29.000000Z",
+                "updated_at": "2025-03-03T20:08:29.000000Z"
+            },
+            {
+                "id": 59,
+                "name": "Cells only",
+                "created_at": "2025-03-03T20:08:31.000000Z",
+                "updated_at": "2025-03-03T20:08:31.000000Z"
+            },
+            {
+                "id": 63,
+                "name": "Colon",
+                "created_at": "2025-04-23T12:07:51.000000Z",
+                "updated_at": "2025-04-23T12:07:51.000000Z"
+            },
+            {
+                "id": 4,
+                "name": "Ears",
+                "created_at": "2024-10-17T17:12:12.000000Z",
+                "updated_at": "2024-10-17T17:12:12.000000Z"
+            },
+            {
+                "id": 57,
+                "name": "Endothelial",
+                "created_at": "2025-03-03T16:12:38.000000Z",
+                "updated_at": "2025-03-03T16:12:38.000000Z"
+            },
+            {
+                "id": 5,
+                "name": "Eyes",
+                "created_at": "2024-10-17T17:12:16.000000Z",
+                "updated_at": "2024-10-17T17:12:16.000000Z"
+            },
+            {
+                "id": 42,
+                "name": "Femur",
+                "created_at": "2025-02-24T19:43:39.000000Z",
+                "updated_at": "2025-02-24T19:43:39.000000Z"
+            },
+            {
+                "id": 62,
+                "name": "Fibrotic",
+                "created_at": "2025-03-05T21:04:59.000000Z",
+                "updated_at": "2025-03-05T21:04:59.000000Z"
+            },
+            {
+                "id": 61,
+                "name": "Fibrotic",
+                "created_at": "2025-03-05T21:04:57.000000Z",
+                "updated_at": "2025-03-05T21:04:57.000000Z"
+            },
+            {
+                "id": 29,
+                "name": "Gallbladder",
+                "created_at": "2024-11-04T18:16:57.000000Z",
+                "updated_at": "2024-11-04T18:16:57.000000Z"
+            },
+            {
+                "id": 52,
+                "name": "Gastrointestinal",
+                "created_at": "2025-02-27T22:48:03.000000Z",
+                "updated_at": "2025-02-27T22:48:03.000000Z"
+            },
+            {
+                "id": 37,
+                "name": "General",
+                "created_at": "2024-11-12T22:54:04.000000Z",
+                "updated_at": "2024-11-12T22:54:04.000000Z"
+            },
+            {
+                "id": 15,
+                "name": "Gland",
+                "created_at": "2024-10-17T17:13:26.000000Z",
+                "updated_at": "2024-10-17T17:13:26.000000Z"
+            },
+            {
+                "id": 1,
+                "name": "Heart",
+                "created_at": "2024-10-17T17:11:52.000000Z",
+                "updated_at": "2024-10-17T17:11:52.000000Z"
+            },
+            {
+                "id": 54,
+                "name": "Immune Cells",
+                "created_at": "2025-02-28T17:52:56.000000Z",
+                "updated_at": "2025-02-28T17:52:56.000000Z"
+            },
+            {
+                "id": 47,
+                "name": "Immune System",
+                "created_at": "2025-02-27T18:39:34.000000Z",
+                "updated_at": "2025-02-27T18:39:34.000000Z"
+            },
+            {
+                "id": 13,
+                "name": "Intestines(small & large)",
+                "created_at": "2024-10-17T17:13:13.000000Z",
+                "updated_at": "2024-10-17T17:13:13.000000Z"
+            },
+            {
+                "id": 6,
+                "name": "Kidney",
+                "created_at": "2024-10-17T17:12:20.000000Z",
+                "updated_at": "2024-10-17T17:12:20.000000Z"
+            },
+            {
+                "id": 7,
+                "name": "Liver",
+                "created_at": "2024-10-17T17:12:24.000000Z",
+                "updated_at": "2024-10-17T17:12:24.000000Z"
+            },
+            {
+                "id": 50,
+                "name": "Lungs",
+                "created_at": "2025-02-27T20:36:59.000000Z",
+                "updated_at": "2025-02-27T20:36:59.000000Z"
+            },
+            {
+                "id": 21,
+                "name": "Lymph Nodes",
+                "created_at": "2024-10-17T17:14:07.000000Z",
+                "updated_at": "2024-10-17T17:14:07.000000Z"
+            },
+            {
+                "id": 46,
+                "name": "Marrow",
+                "created_at": "2025-02-26T23:12:12.000000Z",
+                "updated_at": "2025-02-26T23:12:12.000000Z"
+            },
+            {
+                "id": 11,
+                "name": "Miscellaneous",
+                "created_at": "2024-10-17T17:12:49.000000Z",
+                "updated_at": "2024-10-17T17:12:49.000000Z"
+            },
+            {
+                "id": 32,
+                "name": "Mouth",
+                "created_at": "2024-11-04T18:17:22.000000Z",
+                "updated_at": "2024-11-04T18:17:22.000000Z"
+            },
+            {
+                "id": 8,
+                "name": "Muscle",
+                "created_at": "2024-10-17T17:12:35.000000Z",
+                "updated_at": "2024-10-17T17:12:35.000000Z"
+            },
+            {
+                "id": 48,
+                "name": "Musculoskeletal System",
+                "created_at": "2025-02-27T18:39:41.000000Z",
+                "updated_at": "2025-02-27T18:39:41.000000Z"
+            },
+            {
+                "id": 26,
+                "name": "Nerves",
+                "created_at": "2024-10-17T17:14:39.000000Z",
+                "updated_at": "2024-10-17T17:14:39.000000Z"
+            },
+            {
+                "id": 31,
+                "name": "Nose",
+                "created_at": "2024-11-04T18:17:22.000000Z",
+                "updated_at": "2024-11-04T18:17:22.000000Z"
+            },
+            {
+                "id": 53,
+                "name": "one (since Mg is a biomaterial for tissue replacement)",
+                "created_at": "2025-02-28T16:17:46.000000Z",
+                "updated_at": "2025-02-28T16:17:46.000000Z"
+            },
+            {
+                "id": 36,
+                "name": "Others",
+                "created_at": "2024-11-04T18:18:23.000000Z",
+                "updated_at": "2024-11-04T18:18:44.000000Z"
+            },
+            {
+                "id": 16,
+                "name": "Ovaries",
+                "created_at": "2024-10-17T17:13:29.000000Z",
+                "updated_at": "2024-10-17T17:13:29.000000Z"
+            },
+            {
+                "id": 9,
+                "name": "Pancreas",
+                "created_at": "2024-10-17T17:12:40.000000Z",
+                "updated_at": "2024-10-17T17:12:40.000000Z"
+            },
+            {
+                "id": 56,
+                "name": "Periodontal Tissue",
+                "created_at": "2025-02-28T23:15:07.000000Z",
+                "updated_at": "2025-02-28T23:15:07.000000Z"
+            },
+            {
+                "id": 55,
+                "name": "Peritoneum",
+                "created_at": "2025-02-28T18:11:51.000000Z",
+                "updated_at": "2025-02-28T18:11:51.000000Z"
+            },
+            {
+                "id": 35,
+                "name": "Pituitary gland",
+                "created_at": "2024-11-04T18:18:23.000000Z",
+                "updated_at": "2024-11-04T18:18:23.000000Z"
+            },
+            {
+                "id": 19,
+                "name": "Prostate Gland",
+                "created_at": "2024-10-17T17:13:45.000000Z",
+                "updated_at": "2024-10-17T17:13:45.000000Z"
+            },
+            {
+                "id": 10,
+                "name": "Skin",
+                "created_at": "2024-10-17T17:12:46.000000Z",
+                "updated_at": "2024-10-17T17:12:46.000000Z"
+            },
+            {
+                "id": 14,
+                "name": "Spleen",
+                "created_at": "2024-10-17T17:13:19.000000Z",
+                "updated_at": "2024-10-17T17:13:19.000000Z"
+            },
+            {
+                "id": 12,
+                "name": "Stomach",
+                "created_at": "2024-10-17T17:12:59.000000Z",
+                "updated_at": "2024-10-17T17:12:59.000000Z"
+            },
+            {
+                "id": 17,
+                "name": "Testes",
+                "created_at": "2024-10-17T17:13:33.000000Z",
+                "updated_at": "2024-10-17T17:13:33.000000Z"
+            },
+            {
+                "id": 27,
+                "name": "Thymus",
+                "created_at": "2024-10-17T17:14:44.000000Z",
+                "updated_at": "2024-11-04T18:18:40.000000Z"
+            },
+            {
+                "id": 33,
+                "name": "Thyroid gland",
+                "created_at": "2024-11-04T18:18:02.000000Z",
+                "updated_at": "2024-11-04T18:18:02.000000Z"
+            },
+            {
+                "id": 45,
+                "name": "Tibia",
+                "created_at": "2025-02-24T20:30:41.000000Z",
+                "updated_at": "2025-02-24T20:30:41.000000Z"
+            },
+            {
+                "id": 60,
+                "name": "Tumor Tissue",
+                "created_at": "2025-03-03T20:56:11.000000Z",
+                "updated_at": "2025-03-03T20:56:11.000000Z"
+            },
+            {
+                "id": 49,
+                "name": "Tumors",
+                "created_at": "2025-02-27T20:36:41.000000Z",
+                "updated_at": "2025-02-27T20:36:41.000000Z"
+            },
+            {
+                "id": 18,
+                "name": "Uterus",
+                "created_at": "2024-10-17T17:13:37.000000Z",
+                "updated_at": "2024-10-17T17:13:37.000000Z"
+            }
+        ],
+        "system": [
+            {
+                "id": 25,
+                "name": "Anti-type II collagen antibody-induced arthritis (Rheumatoid Arthritis Model)",
+                "created_at": "2025-02-27T18:39:27.000000Z",
+                "updated_at": "2025-02-27T18:39:27.000000Z"
+            },
+            {
+                "id": 1,
+                "name": "Cardiovascular System",
+                "created_at": "2024-10-17T19:19:00.000000Z",
+                "updated_at": "2024-10-17T19:19:00.000000Z"
+            },
+            {
+                "id": 8,
+                "name": "Digestive System",
+                "created_at": "2024-10-17T19:20:42.000000Z",
+                "updated_at": "2024-10-17T19:20:42.000000Z"
+            },
+            {
+                "id": 5,
+                "name": "Endocrine System",
+                "created_at": "2024-10-17T19:20:19.000000Z",
+                "updated_at": "2024-10-17T19:20:19.000000Z"
+            },
+            {
+                "id": 18,
+                "name": "General",
+                "created_at": "2024-11-12T22:47:53.000000Z",
+                "updated_at": "2024-11-12T22:47:53.000000Z"
+            },
+            {
+                "id": 29,
+                "name": "Heart valves (specifically valve interstitial cells)",
+                "created_at": "2025-02-27T20:57:17.000000Z",
+                "updated_at": "2025-02-27T20:57:17.000000Z"
+            },
+            {
+                "id": 28,
+                "name": "Heart valves (specifically valve interstitial cells)",
+                "created_at": "2025-02-27T20:57:16.000000Z",
+                "updated_at": "2025-02-27T20:57:16.000000Z"
+            },
+            {
+                "id": 11,
+                "name": "Immune System",
+                "created_at": "2024-10-17T19:21:13.000000Z",
+                "updated_at": "2024-10-17T19:21:13.000000Z"
+            },
+            {
+                "id": 27,
+                "name": "Inflammatory diseases",
+                "created_at": "2025-02-27T20:36:01.000000Z",
+                "updated_at": "2025-02-27T20:36:01.000000Z"
+            },
+            {
+                "id": 2,
+                "name": "Integumentary System",
+                "created_at": "2024-10-17T19:19:11.000000Z",
+                "updated_at": "2024-10-17T19:19:11.000000Z"
+            },
+            {
+                "id": 6,
+                "name": "Lymphatic System",
+                "created_at": "2024-10-17T19:20:26.000000Z",
+                "updated_at": "2024-10-17T19:20:26.000000Z"
+            },
+            {
+                "id": 3,
+                "name": "Muscular System",
+                "created_at": "2024-10-17T19:19:25.000000Z",
+                "updated_at": "2024-10-17T19:19:25.000000Z"
+            },
+            {
+                "id": 26,
+                "name": "Musculoskeletal System",
+                "created_at": "2025-02-27T19:03:07.000000Z",
+                "updated_at": "2025-02-27T19:03:07.000000Z"
+            },
+            {
+                "id": 4,
+                "name": "Nervous System",
+                "created_at": "2024-10-17T19:20:10.000000Z",
+                "updated_at": "2024-10-17T19:20:10.000000Z"
+            },
+            {
+                "id": 32,
+                "name": "Neurological",
+                "created_at": "2025-03-05T21:20:34.000000Z",
+                "updated_at": "2025-03-05T21:20:34.000000Z"
+            },
+            {
+                "id": 30,
+                "name": "Other Organ Systems",
+                "created_at": "2025-02-27T22:47:32.000000Z",
+                "updated_at": "2025-02-27T22:47:32.000000Z"
+            },
+            {
+                "id": 31,
+                "name": "Renal",
+                "created_at": "2025-02-28T23:40:51.000000Z",
+                "updated_at": "2025-02-28T23:40:51.000000Z"
+            },
+            {
+                "id": 10,
+                "name": "Reproductive System",
+                "created_at": "2024-10-17T19:21:05.000000Z",
+                "updated_at": "2024-10-17T19:21:05.000000Z"
+            },
+            {
+                "id": 7,
+                "name": "Respiratory System",
+                "created_at": "2024-10-17T19:20:34.000000Z",
+                "updated_at": "2024-10-17T19:20:34.000000Z"
+            },
+            {
+                "id": 23,
+                "name": "Skeletal",
+                "created_at": "2025-02-24T19:43:32.000000Z",
+                "updated_at": "2025-02-24T19:43:32.000000Z"
+            },
+            {
+                "id": 9,
+                "name": "Urinary System",
+                "created_at": "2024-10-17T19:20:49.000000Z",
+                "updated_at": "2024-10-17T19:23:23.000000Z"
+            }
+        ],
+        "research_topics": [
+            {
+                "id": 23,
+                "name": "Aging",
+                "created_at": "2024-10-17T17:02:20.000000Z",
+                "updated_at": "2024-10-17T17:02:20.000000Z"
+            },
+            {
+                "id": 17,
+                "name": "Agriculture/Plants",
+                "created_at": "2024-10-17T17:01:35.000000Z",
+                "updated_at": "2024-10-17T17:01:35.000000Z"
+            },
+            {
+                "id": 53,
+                "name": "Anti-inflammatory",
+                "created_at": "2025-02-27T20:35:19.000000Z",
+                "updated_at": "2025-02-27T20:35:19.000000Z"
+            },
+            {
+                "id": 54,
+                "name": "Antitumor",
+                "created_at": "2025-02-27T20:35:23.000000Z",
+                "updated_at": "2025-02-27T20:35:23.000000Z"
+            },
+            {
+                "id": 65,
+                "name": "Apoptosis",
+                "created_at": "2025-03-03T22:21:53.000000Z",
+                "updated_at": "2025-03-03T22:21:53.000000Z"
+            },
+            {
+                "id": 7,
+                "name": "Autoimmune Disorders",
+                "created_at": "2024-10-17T16:59:21.000000Z",
+                "updated_at": "2024-11-04T18:04:16.000000Z"
+            },
+            {
+                "id": 36,
+                "name": "Bacteria",
+                "created_at": "2024-11-25T16:17:39.000000Z",
+                "updated_at": "2024-11-25T16:17:39.000000Z"
+            },
+            {
+                "id": 56,
+                "name": "Bone",
+                "created_at": "2025-02-28T17:12:00.000000Z",
+                "updated_at": "2025-02-28T17:12:00.000000Z"
+            },
+            {
+                "id": 58,
+                "name": "C57BL/6",
+                "created_at": "2025-02-28T17:48:05.000000Z",
+                "updated_at": "2025-02-28T17:48:05.000000Z"
+            },
+            {
+                "id": 1,
+                "name": "Cancer",
+                "created_at": "2024-10-17T16:58:17.000000Z",
+                "updated_at": "2024-10-17T16:58:17.000000Z"
+            },
+            {
+                "id": 5,
+                "name": "Cardiovascular Diseases",
+                "created_at": "2024-10-17T16:59:14.000000Z",
+                "updated_at": "2024-11-04T18:04:03.000000Z"
+            },
+            {
+                "id": 63,
+                "name": "Cellular Differentiation",
+                "created_at": "2025-03-03T21:27:09.000000Z",
+                "updated_at": "2025-03-03T21:27:09.000000Z"
+            },
+            {
+                "id": 14,
+                "name": "Dermatological Diseases",
+                "created_at": "2024-10-17T17:01:12.000000Z",
+                "updated_at": "2024-10-17T17:01:12.000000Z"
+            },
+            {
+                "id": 2,
+                "name": "Diabetes",
+                "created_at": "2024-10-17T16:58:30.000000Z",
+                "updated_at": "2024-10-17T16:58:30.000000Z"
+            },
+            {
+                "id": 20,
+                "name": "Endocrine Disorders",
+                "created_at": "2024-10-17T17:02:07.000000Z",
+                "updated_at": "2024-11-04T18:05:53.000000Z"
+            },
+            {
+                "id": 24,
+                "name": "Exercise",
+                "created_at": "2024-10-17T17:02:24.000000Z",
+                "updated_at": "2024-10-17T17:02:24.000000Z"
+            },
+            {
+                "id": 35,
+                "name": "Food-Processing",
+                "created_at": "2024-11-25T16:17:32.000000Z",
+                "updated_at": "2024-11-25T16:17:32.000000Z"
+            },
+            {
+                "id": 57,
+                "name": "Free Radicals scavenging",
+                "created_at": "2025-02-28T17:12:15.000000Z",
+                "updated_at": "2025-02-28T17:12:15.000000Z"
+            },
+            {
+                "id": 11,
+                "name": "Gastrointestinal Disorders",
+                "created_at": "2024-10-17T17:00:38.000000Z",
+                "updated_at": "2024-10-17T17:00:38.000000Z"
+            },
+            {
+                "id": 62,
+                "name": "Gene Expression Regulation",
+                "created_at": "2025-03-03T21:11:55.000000Z",
+                "updated_at": "2025-03-03T21:11:55.000000Z"
+            },
+            {
+                "id": 9,
+                "name": "Genetic Disorders",
+                "created_at": "2024-10-17T16:59:40.000000Z",
+                "updated_at": "2024-10-17T16:59:40.000000Z"
+            },
+            {
+                "id": 25,
+                "name": "Health & Wellness / Prevention",
+                "created_at": "2024-10-17T17:02:31.000000Z",
+                "updated_at": "2024-10-17T17:02:31.000000Z"
+            },
+            {
+                "id": 46,
+                "name": "Hydrogen therapy",
+                "created_at": "2025-02-24T19:43:03.000000Z",
+                "updated_at": "2025-02-24T19:43:03.000000Z"
+            },
+            {
+                "id": 61,
+                "name": "Immunomodulation",
+                "created_at": "2025-03-03T20:39:40.000000Z",
+                "updated_at": "2025-03-03T20:39:40.000000Z"
+            },
+            {
+                "id": 4,
+                "name": "Infectious Diseases",
+                "created_at": "2024-10-17T16:59:10.000000Z",
+                "updated_at": "2024-11-04T18:03:52.000000Z"
+            },
+            {
+                "id": 64,
+                "name": "Inflammation",
+                "created_at": "2025-03-03T22:21:48.000000Z",
+                "updated_at": "2025-03-03T22:21:48.000000Z"
+            },
+            {
+                "id": 51,
+                "name": "Inflammatory Disorders",
+                "created_at": "2025-02-27T18:39:05.000000Z",
+                "updated_at": "2025-02-27T18:39:05.000000Z"
+            },
+            {
+                "id": 19,
+                "name": "Liver Diseases",
+                "created_at": "2024-10-17T17:01:57.000000Z",
+                "updated_at": "2024-10-17T17:01:57.000000Z"
+            },
+            {
+                "id": 60,
+                "name": "Mechanistic Studies",
+                "created_at": "2025-03-03T20:07:31.000000Z",
+                "updated_at": "2025-03-03T20:07:31.000000Z"
+            },
+            {
+                "id": 31,
+                "name": "Mechanistic-Direct ",
+                "created_at": "2024-11-19T20:01:22.000000Z",
+                "updated_at": "2024-11-20T18:57:52.000000Z"
+            },
+            {
+                "id": 32,
+                "name": "Mechanistic-Indirect",
+                "created_at": "2024-11-20T18:58:00.000000Z",
+                "updated_at": "2024-11-20T18:58:00.000000Z"
+            },
+            {
+                "id": 67,
+                "name": "Menopause",
+                "created_at": "2025-03-14T00:28:04.000000Z",
+                "updated_at": "2025-03-14T00:28:04.000000Z"
+            },
+            {
+                "id": 52,
+                "name": "Mesenchymal Stem Cells",
+                "created_at": "2025-02-27T19:53:32.000000Z",
+                "updated_at": "2025-02-27T19:53:32.000000Z"
+            },
+            {
+                "id": 8,
+                "name": "Metabolic Disorders",
+                "created_at": "2024-10-17T16:59:30.000000Z",
+                "updated_at": "2024-10-17T16:59:30.000000Z"
+            },
+            {
+                "id": 12,
+                "name": "Metabolic Syndrome",
+                "created_at": "2024-10-17T17:00:47.000000Z",
+                "updated_at": "2024-10-17T17:00:47.000000Z"
+            },
+            {
+                "id": 33,
+                "name": "Microbiome",
+                "created_at": "2024-11-25T16:16:37.000000Z",
+                "updated_at": "2024-11-25T16:16:37.000000Z"
+            },
+            {
+                "id": 15,
+                "name": "Musculoskeletal Disorders",
+                "created_at": "2024-10-17T17:01:20.000000Z",
+                "updated_at": "2024-11-04T18:04:58.000000Z"
+            },
+            {
+                "id": 6,
+                "name": "Neurological Disorders",
+                "created_at": "2024-10-17T16:59:17.000000Z",
+                "updated_at": "2024-11-04T18:04:13.000000Z"
+            },
+            {
+                "id": 68,
+                "name": "Nutrition",
+                "created_at": "2025-03-24T18:46:35.000000Z",
+                "updated_at": "2025-03-24T18:46:35.000000Z"
+            },
+            {
+                "id": 55,
+                "name": "Obesity and CVD",
+                "created_at": "2025-02-27T22:07:40.000000Z",
+                "updated_at": "2025-02-27T22:07:40.000000Z"
+            },
+            {
+                "id": 50,
+                "name": "Osteoclast",
+                "created_at": "2025-02-26T22:54:37.000000Z",
+                "updated_at": "2025-02-26T22:54:37.000000Z"
+            },
+            {
+                "id": 44,
+                "name": "Osteonecrosis",
+                "created_at": "2025-02-24T19:42:46.000000Z",
+                "updated_at": "2025-02-24T19:42:46.000000Z"
+            },
+            {
+                "id": 48,
+                "name": "Osteoporosis",
+                "created_at": "2025-02-24T20:30:15.000000Z",
+                "updated_at": "2025-02-24T20:30:15.000000Z"
+            },
+            {
+                "id": 45,
+                "name": "Oxidative stress",
+                "created_at": "2025-02-24T19:42:54.000000Z",
+                "updated_at": "2025-02-24T19:42:54.000000Z"
+            },
+            {
+                "id": 3,
+                "name": "Parkinson's",
+                "created_at": "2024-10-17T16:58:42.000000Z",
+                "updated_at": "2024-10-17T16:58:42.000000Z"
+            },
+            {
+                "id": 34,
+                "name": "Plants/Agriculture",
+                "created_at": "2024-11-25T16:17:22.000000Z",
+                "updated_at": "2024-11-25T16:17:22.000000Z"
+            },
+            {
+                "id": 59,
+                "name": "Reactive",
+                "created_at": "2025-03-03T20:07:11.000000Z",
+                "updated_at": "2025-03-03T20:07:11.000000Z"
+            },
+            {
+                "id": 16,
+                "name": "Renal Diseases",
+                "created_at": "2024-10-17T17:01:25.000000Z",
+                "updated_at": "2024-11-04T18:05:04.000000Z"
+            },
+            {
+                "id": 21,
+                "name": "Reproductive Health",
+                "created_at": "2024-10-17T17:02:11.000000Z",
+                "updated_at": "2024-11-04T18:05:58.000000Z"
+            },
+            {
+                "id": 10,
+                "name": "Respiratory Diseases",
+                "created_at": "2024-10-17T16:59:52.000000Z",
+                "updated_at": "2024-10-17T16:59:52.000000Z"
+            },
+            {
+                "id": 66,
+                "name": "Respiratory System",
+                "created_at": "2025-03-04T16:48:24.000000Z",
+                "updated_at": "2025-03-04T16:48:24.000000Z"
+            },
+            {
+                "id": 22,
+                "name": "Sensory Disorders",
+                "created_at": "2024-10-17T17:02:15.000000Z",
+                "updated_at": "2024-11-04T18:06:06.000000Z"
+            },
+            {
+                "id": 13,
+                "name": "Toxicology and Poisoning",
+                "created_at": "2024-10-17T17:01:04.000000Z",
+                "updated_at": "2024-10-17T17:01:04.000000Z"
+            }
+        ],
+        "administration_methods": [
+            {
+                "id": 12,
+                "name": "Cell Culture / Tissues",
+                "created_at": "2024-11-13T16:55:19.000000Z",
+                "updated_at": "2024-11-13T16:55:19.000000Z"
+            },
+            {
+                "id": 2,
+                "name": "Gavage",
+                "created_at": "2024-10-18T13:03:45.000000Z",
+                "updated_at": "2024-11-04T18:21:28.000000Z"
+            },
+            {
+                "id": 9,
+                "name": "Hydrogen-rich Saline",
+                "created_at": "2024-11-04T18:23:27.000000Z",
+                "updated_at": "2024-11-04T18:23:27.000000Z"
+            },
+            {
+                "id": 4,
+                "name": "Ingestion of H2-producing bacteria",
+                "created_at": "2024-10-18T13:04:02.000000Z",
+                "updated_at": "2024-11-04T18:22:08.000000Z"
+            },
+            {
+                "id": 3,
+                "name": "Inhalation",
+                "created_at": "2024-10-18T13:03:53.000000Z",
+                "updated_at": "2024-11-04T18:21:43.000000Z"
+            },
+            {
+                "id": 17,
+                "name": "Intraperitoneal injection of Hydrogen-Rich Solution",
+                "created_at": "2025-03-05T20:37:37.000000Z",
+                "updated_at": "2025-03-05T20:37:37.000000Z"
+            },
+            {
+                "id": 1,
+                "name": "Oral Hydrogen Water",
+                "created_at": "2024-10-18T13:03:33.000000Z",
+                "updated_at": "2024-10-18T13:03:33.000000Z"
+            },
+            {
+                "id": 10,
+                "name": "Subcutaneous injection of hydrogen",
+                "created_at": "2024-11-04T18:23:27.000000Z",
+                "updated_at": "2024-11-04T18:23:27.000000Z"
+            },
+            {
+                "id": 7,
+                "name": "Topical applications",
+                "created_at": "2024-11-04T18:22:53.000000Z",
+                "updated_at": "2024-11-04T18:22:53.000000Z"
+            }
+        ],
+        "country": [
+            {
+                "id": 52,
+                "name": "Canada",
+                "status": "Approved",
+                "created_at": "2025-01-30T00:52:06.000000Z",
+                "updated_at": "2025-02-25T22:07:13.000000Z"
+            },
+            {
+                "id": 2,
+                "name": "China",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            },
+            {
+                "id": 82,
+                "name": "Czech Republic",
+                "status": "Approved",
+                "created_at": "2025-03-13T23:40:00.000000Z",
+                "updated_at": "2025-03-13T23:40:00.000000Z"
+            },
+            {
+                "id": 93,
+                "name": "France",
+                "status": "Pending",
+                "created_at": "2025-04-18T00:22:29.000000Z",
+                "updated_at": "2025-04-18T00:22:29.000000Z"
+            },
+            {
+                "id": 62,
+                "name": "Germany",
+                "status": "Approved",
+                "created_at": "2025-02-28T19:21:37.000000Z",
+                "updated_at": "2025-03-14T00:12:44.000000Z"
+            },
+            {
+                "id": 64,
+                "name": "Hungary",
+                "status": "Approved",
+                "created_at": "2025-02-28T20:50:45.000000Z",
+                "updated_at": "2025-03-06T21:55:39.000000Z"
+            },
+            {
+                "id": 63,
+                "name": "India",
+                "status": "Approved",
+                "created_at": "2025-02-28T20:50:25.000000Z",
+                "updated_at": "2025-02-28T21:20:10.000000Z"
+            },
+            {
+                "id": 1,
+                "name": "Japan",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            },
+            {
+                "id": 3,
+                "name": "Korea",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            },
+            {
+                "id": 94,
+                "name": "Malaysia",
+                "status": "Pending",
+                "created_at": "2025-04-23T12:00:00.000000Z",
+                "updated_at": "2025-04-23T12:00:00.000000Z"
+            },
+            {
+                "id": 83,
+                "name": "Norway",
+                "status": "Approved",
+                "created_at": "2025-04-14T18:09:45.000000Z",
+                "updated_at": "2025-04-14T18:11:41.000000Z"
+            },
+            {
+                "id": 6,
+                "name": "Other",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            },
+            {
+                "id": 5,
+                "name": "Russia",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            },
+            {
+                "id": 57,
+                "name": "Serbia",
+                "status": "Approved",
+                "created_at": "2025-02-26T20:55:17.000000Z",
+                "updated_at": "2025-03-13T23:59:38.000000Z"
+            },
+            {
+                "id": 65,
+                "name": "Slovak Republic",
+                "status": "Approved",
+                "created_at": "2025-03-05T20:47:42.000000Z",
+                "updated_at": "2025-03-06T21:25:34.000000Z"
+            },
+            {
+                "id": 56,
+                "name": "Slovakia",
+                "status": "Approved",
+                "created_at": "2025-02-26T13:16:59.000000Z",
+                "updated_at": "2025-02-26T20:57:16.000000Z"
+            },
+            {
+                "id": 58,
+                "name": "Spain",
+                "status": "Approved",
+                "created_at": "2025-02-26T20:55:27.000000Z",
+                "updated_at": "2025-02-26T20:57:19.000000Z"
+            },
+            {
+                "id": 53,
+                "name": "Sweden",
+                "status": "Approved",
+                "created_at": "2025-02-24T18:51:18.000000Z",
+                "updated_at": "2025-02-25T22:07:15.000000Z"
+            },
+            {
+                "id": 59,
+                "name": "Taiwan",
+                "status": "Approved",
+                "created_at": "2025-02-26T21:14:21.000000Z",
+                "updated_at": "2025-02-26T21:14:41.000000Z"
+            },
+            {
+                "id": 61,
+                "name": "Türkiye",
+                "status": "Approved",
+                "created_at": "2025-02-28T18:52:45.000000Z",
+                "updated_at": "2025-02-28T18:54:29.000000Z"
+            },
+            {
+                "id": 60,
+                "name": "United Kingdom",
+                "status": "Approved",
+                "created_at": "2025-02-27T19:49:53.000000Z",
+                "updated_at": "2025-03-14T00:00:02.000000Z"
+            },
+            {
+                "id": 95,
+                "name": "United States",
+                "status": "Pending",
+                "created_at": "2025-04-23T15:41:17.000000Z",
+                "updated_at": "2025-04-23T15:41:17.000000Z"
+            },
+            {
+                "id": 4,
+                "name": "USA",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            }
+        ],
+        "grantCountry": [
+            {
+                "id": 52,
+                "name": "Canada",
+                "status": "Approved",
+                "created_at": "2025-01-30T00:52:06.000000Z",
+                "updated_at": "2025-02-25T22:07:13.000000Z"
+            },
+            {
+                "id": 2,
+                "name": "China",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            },
+            {
+                "id": 82,
+                "name": "Czech Republic",
+                "status": "Approved",
+                "created_at": "2025-03-13T23:40:00.000000Z",
+                "updated_at": "2025-03-13T23:40:00.000000Z"
+            },
+            {
+                "id": 93,
+                "name": "France",
+                "status": "Pending",
+                "created_at": "2025-04-18T00:22:29.000000Z",
+                "updated_at": "2025-04-18T00:22:29.000000Z"
+            },
+            {
+                "id": 62,
+                "name": "Germany",
+                "status": "Approved",
+                "created_at": "2025-02-28T19:21:37.000000Z",
+                "updated_at": "2025-03-14T00:12:44.000000Z"
+            },
+            {
+                "id": 64,
+                "name": "Hungary",
+                "status": "Approved",
+                "created_at": "2025-02-28T20:50:45.000000Z",
+                "updated_at": "2025-03-06T21:55:39.000000Z"
+            },
+            {
+                "id": 63,
+                "name": "India",
+                "status": "Approved",
+                "created_at": "2025-02-28T20:50:25.000000Z",
+                "updated_at": "2025-02-28T21:20:10.000000Z"
+            },
+            {
+                "id": 1,
+                "name": "Japan",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            },
+            {
+                "id": 3,
+                "name": "Korea",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            },
+            {
+                "id": 94,
+                "name": "Malaysia",
+                "status": "Pending",
+                "created_at": "2025-04-23T12:00:00.000000Z",
+                "updated_at": "2025-04-23T12:00:00.000000Z"
+            },
+            {
+                "id": 83,
+                "name": "Norway",
+                "status": "Approved",
+                "created_at": "2025-04-14T18:09:45.000000Z",
+                "updated_at": "2025-04-14T18:11:41.000000Z"
+            },
+            {
+                "id": 6,
+                "name": "Other",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            },
+            {
+                "id": 5,
+                "name": "Russia",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            },
+            {
+                "id": 57,
+                "name": "Serbia",
+                "status": "Approved",
+                "created_at": "2025-02-26T20:55:17.000000Z",
+                "updated_at": "2025-03-13T23:59:38.000000Z"
+            },
+            {
+                "id": 65,
+                "name": "Slovak Republic",
+                "status": "Approved",
+                "created_at": "2025-03-05T20:47:42.000000Z",
+                "updated_at": "2025-03-06T21:25:34.000000Z"
+            },
+            {
+                "id": 56,
+                "name": "Slovakia",
+                "status": "Approved",
+                "created_at": "2025-02-26T13:16:59.000000Z",
+                "updated_at": "2025-02-26T20:57:16.000000Z"
+            },
+            {
+                "id": 58,
+                "name": "Spain",
+                "status": "Approved",
+                "created_at": "2025-02-26T20:55:27.000000Z",
+                "updated_at": "2025-02-26T20:57:19.000000Z"
+            },
+            {
+                "id": 53,
+                "name": "Sweden",
+                "status": "Approved",
+                "created_at": "2025-02-24T18:51:18.000000Z",
+                "updated_at": "2025-02-25T22:07:15.000000Z"
+            },
+            {
+                "id": 59,
+                "name": "Taiwan",
+                "status": "Approved",
+                "created_at": "2025-02-26T21:14:21.000000Z",
+                "updated_at": "2025-02-26T21:14:41.000000Z"
+            },
+            {
+                "id": 61,
+                "name": "Türkiye",
+                "status": "Approved",
+                "created_at": "2025-02-28T18:52:45.000000Z",
+                "updated_at": "2025-02-28T18:54:29.000000Z"
+            },
+            {
+                "id": 60,
+                "name": "United Kingdom",
+                "status": "Approved",
+                "created_at": "2025-02-27T19:49:53.000000Z",
+                "updated_at": "2025-03-14T00:00:02.000000Z"
+            },
+            {
+                "id": 95,
+                "name": "United States",
+                "status": "Pending",
+                "created_at": "2025-04-23T15:41:17.000000Z",
+                "updated_at": "2025-04-23T15:41:17.000000Z"
+            },
+            {
+                "id": 4,
+                "name": "USA",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            }
+        ],
+        "researchCountry": [
+            {
+                "id": 52,
+                "name": "Canada",
+                "status": "Approved",
+                "created_at": "2025-01-30T00:52:06.000000Z",
+                "updated_at": "2025-02-25T22:07:13.000000Z"
+            },
+            {
+                "id": 2,
+                "name": "China",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            },
+            {
+                "id": 82,
+                "name": "Czech Republic",
+                "status": "Approved",
+                "created_at": "2025-03-13T23:40:00.000000Z",
+                "updated_at": "2025-03-13T23:40:00.000000Z"
+            },
+            {
+                "id": 93,
+                "name": "France",
+                "status": "Pending",
+                "created_at": "2025-04-18T00:22:29.000000Z",
+                "updated_at": "2025-04-18T00:22:29.000000Z"
+            },
+            {
+                "id": 62,
+                "name": "Germany",
+                "status": "Approved",
+                "created_at": "2025-02-28T19:21:37.000000Z",
+                "updated_at": "2025-03-14T00:12:44.000000Z"
+            },
+            {
+                "id": 64,
+                "name": "Hungary",
+                "status": "Approved",
+                "created_at": "2025-02-28T20:50:45.000000Z",
+                "updated_at": "2025-03-06T21:55:39.000000Z"
+            },
+            {
+                "id": 63,
+                "name": "India",
+                "status": "Approved",
+                "created_at": "2025-02-28T20:50:25.000000Z",
+                "updated_at": "2025-02-28T21:20:10.000000Z"
+            },
+            {
+                "id": 1,
+                "name": "Japan",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            },
+            {
+                "id": 3,
+                "name": "Korea",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            },
+            {
+                "id": 94,
+                "name": "Malaysia",
+                "status": "Pending",
+                "created_at": "2025-04-23T12:00:00.000000Z",
+                "updated_at": "2025-04-23T12:00:00.000000Z"
+            },
+            {
+                "id": 83,
+                "name": "Norway",
+                "status": "Approved",
+                "created_at": "2025-04-14T18:09:45.000000Z",
+                "updated_at": "2025-04-14T18:11:41.000000Z"
+            },
+            {
+                "id": 6,
+                "name": "Other",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            },
+            {
+                "id": 5,
+                "name": "Russia",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            },
+            {
+                "id": 57,
+                "name": "Serbia",
+                "status": "Approved",
+                "created_at": "2025-02-26T20:55:17.000000Z",
+                "updated_at": "2025-03-13T23:59:38.000000Z"
+            },
+            {
+                "id": 65,
+                "name": "Slovak Republic",
+                "status": "Approved",
+                "created_at": "2025-03-05T20:47:42.000000Z",
+                "updated_at": "2025-03-06T21:25:34.000000Z"
+            },
+            {
+                "id": 56,
+                "name": "Slovakia",
+                "status": "Approved",
+                "created_at": "2025-02-26T13:16:59.000000Z",
+                "updated_at": "2025-02-26T20:57:16.000000Z"
+            },
+            {
+                "id": 58,
+                "name": "Spain",
+                "status": "Approved",
+                "created_at": "2025-02-26T20:55:27.000000Z",
+                "updated_at": "2025-02-26T20:57:19.000000Z"
+            },
+            {
+                "id": 53,
+                "name": "Sweden",
+                "status": "Approved",
+                "created_at": "2025-02-24T18:51:18.000000Z",
+                "updated_at": "2025-02-25T22:07:15.000000Z"
+            },
+            {
+                "id": 59,
+                "name": "Taiwan",
+                "status": "Approved",
+                "created_at": "2025-02-26T21:14:21.000000Z",
+                "updated_at": "2025-02-26T21:14:41.000000Z"
+            },
+            {
+                "id": 61,
+                "name": "Türkiye",
+                "status": "Approved",
+                "created_at": "2025-02-28T18:52:45.000000Z",
+                "updated_at": "2025-02-28T18:54:29.000000Z"
+            },
+            {
+                "id": 60,
+                "name": "United Kingdom",
+                "status": "Approved",
+                "created_at": "2025-02-27T19:49:53.000000Z",
+                "updated_at": "2025-03-14T00:00:02.000000Z"
+            },
+            {
+                "id": 95,
+                "name": "United States",
+                "status": "Pending",
+                "created_at": "2025-04-23T15:41:17.000000Z",
+                "updated_at": "2025-04-23T15:41:17.000000Z"
+            },
+            {
+                "id": 4,
+                "name": "USA",
+                "status": "Approved",
+                "created_at": "2024-12-20T16:24:50.000000Z",
+                "updated_at": "2024-12-20T16:24:50.000000Z"
+            }
+        ],
+        "marker": [
+            {
+                "id": 45,
+                "name": "1 5 AG",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 256,
+                "name": "1,5-Anhydroglucitol (1,5-AG)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 14,
+                "name": "13(S)-Hydroxy-[12,13-3H]octadecadienoic acid (13-HODE)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 226,
+                "name": "13(S)-Hydroxy-9Z,11E-octadecadienoic acid (13-HODE)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 22,
+                "name": "4-Hydroxynonenal (HNE)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 381,
+                "name": "4-hydroxynonenal-protein adducts (HNE)",
+                "status": "Approved",
+                "created_at": "2025-04-15T15:25:40.000000Z",
+                "updated_at": "2025-04-15T19:25:40.000000Z"
+            },
+            {
+                "id": 196,
+                "name": "5-bisphosphate 3-kinase (PI3K)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 19,
+                "name": "8-hydroxy-2' -deoxyguanosine (8-OHdG)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 225,
+                "name": "8-Hydroxy-2'-deoxyguanosine (8-OHdG)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 366,
+                "name": "8-hydroxydeoxyguanosine (8-ohdg)",
+                "status": "Approved",
+                "created_at": "2025-03-05T15:08:35.000000Z",
+                "updated_at": "2025-03-05T20:08:35.000000Z"
+            },
+            {
+                "id": 380,
+                "name": "8-hydroxyguanine (8-OH-G)",
+                "status": "Approved",
+                "created_at": "2025-04-15T15:24:55.000000Z",
+                "updated_at": "2025-04-15T19:24:55.000000Z"
+            },
+            {
+                "id": 12,
+                "name": "8-iso-prostaglandin F2α (8-iso PGF2α)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 51,
+                "name": "ACE",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 278,
+                "name": "AdenosineTriphosphate(ATP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 42,
+                "name": "Adiponectin",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 77,
+                "name": "Alanine aminotransferase (ALT)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 201,
+                "name": "Alanine transaminase (ALT) or Glutamic-pyruvic transaminase (GPT)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 271,
+                "name": "Albumin",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 206,
+                "name": "Alkaline phosphatase (ALP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 79,
+                "name": "ALP",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 93,
+                "name": "Angiopoietin-1",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 266,
+                "name": "Angiotensin-Converting Enzyme (ACE)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 261,
+                "name": "Apolipoprotein B100 (apoB100)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 262,
+                "name": "Apolipoprotein B48 (apoB48)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 263,
+                "name": "Apolipoprotein E (apoE)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 374,
+                "name": "apoptosis (tunel) assay",
+                "status": "Approved",
+                "created_at": "2025-04-13T13:23:43.000000Z",
+                "updated_at": "2025-04-13T17:23:43.000000Z"
+            },
+            {
+                "id": 306,
+                "name": "Aquaporin-4",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 361,
+                "name": "asc (apoptosis-associated speck-like protein)",
+                "status": "Approved",
+                "created_at": "2025-03-05T15:08:39.000000Z",
+                "updated_at": "2025-03-05T20:08:39.000000Z"
+            },
+            {
+                "id": 362,
+                "name": "asc (apoptosis-associated speck-like protein)",
+                "status": "Approved",
+                "created_at": "2025-03-05T15:08:38.000000Z",
+                "updated_at": "2025-03-05T20:08:38.000000Z"
+            },
+            {
+                "id": 207,
+                "name": "asd",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 269,
+                "name": "Aspartate Aminotransferase (AST)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 200,
+                "name": "Aspartate aminotransferase (AST) or Glutamic oxalacetic transaminase (GOT)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 78,
+                "name": "AST",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 215,
+                "name": "ATP",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 216,
+                "name": "ATP synthase rate",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 279,
+                "name": "ATPSynthaseRate",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 179,
+                "name": "B-cell lymphoma 2 (Bcl2 or BCl-xL)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 288,
+                "name": "B-CellLymphoma2(Bcl-2)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 64,
+                "name": "BAP",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 180,
+                "name": "BCl-2-like3 protein (Bax)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 289,
+                "name": "Bcl-2-LikeProtein3(Bax)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 178,
+                "name": "Beclin-1",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 81,
+                "name": "Bilirubin",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 231,
+                "name": "Biological Antioxidant Potential (BAP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 2,
+                "name": "Biologicalantioxidantpotential(BAP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 202,
+                "name": "Blood Urea Nitrogen (BUN)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 56,
+                "name": "BMI",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 57,
+                "name": "Body fat",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 275,
+                "name": "BodyFatPercentage",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 274,
+                "name": "BodyMassIndex(BMI)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 110,
+                "name": "Brain natriuretic peptide",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 102,
+                "name": "Brain-derived neurotrophic factor (BDNF)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 310,
+                "name": "Brain-DerivedNeurotrophicFactor(BDNF)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 182,
+                "name": "C-Fos",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 190,
+                "name": "c-Jun N-terminal kinase (JNK)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 13,
+                "name": "C-reactive protein (CRP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 161,
+                "name": "C/EBPβ",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 103,
+                "name": "Ca2+/calmodulin-dependent protein kinase II (CaMKII)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 314,
+                "name": "Calmodulin-DependentProteinKinaseII(CaMKII)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 370,
+                "name": "cardiac magnetic resonance (cmr) data",
+                "status": "Approved",
+                "created_at": "2025-03-05T16:35:01.000000Z",
+                "updated_at": "2025-03-05T21:35:01.000000Z"
+            },
+            {
+                "id": 169,
+                "name": "Caspase-12",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 166,
+                "name": "Caspase-3",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 167,
+                "name": "Caspase-8",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 168,
+                "name": "Caspase-9",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 369,
+                "name": "catalase (cat)",
+                "status": "Approved",
+                "created_at": "2025-03-11T14:55:41.000000Z",
+                "updated_at": "2025-03-11T18:55:41.000000Z"
+            },
+            {
+                "id": 234,
+                "name": "Catalase (CAT)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 368,
+                "name": "catalase (cat), total antioxidant capacity (t-aoc)",
+                "status": "Approved",
+                "created_at": "2025-03-05T15:08:47.000000Z",
+                "updated_at": "2025-03-05T20:08:47.000000Z"
+            },
+            {
+                "id": 5,
+                "name": "Catalase(Cat)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 130,
+                "name": "CD11b",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 131,
+                "name": "CD25",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 132,
+                "name": "CD31",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 133,
+                "name": "CD36",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 363,
+                "name": "cd41",
+                "status": "Approved",
+                "created_at": "2025-03-05T15:08:36.000000Z",
+                "updated_at": "2025-03-05T20:08:36.000000Z"
+            },
+            {
+                "id": 364,
+                "name": "cd41",
+                "status": "Approved",
+                "created_at": "2025-03-03T16:59:24.000000Z",
+                "updated_at": "2025-03-03T21:59:24.000000Z"
+            },
+            {
+                "id": 365,
+                "name": "cd41",
+                "status": "Approved",
+                "created_at": "2025-03-05T15:08:35.000000Z",
+                "updated_at": "2025-03-05T20:08:35.000000Z"
+            },
+            {
+                "id": 134,
+                "name": "CD68 (ED1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 135,
+                "name": "CD94",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 162,
+                "name": "Chemokine (C-C motif) ligand 2) CCL2 or Monocyte chemotactic protein (MCP1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 158,
+                "name": "Clara cell protein 16 (CC16)é, Palate, lung",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 309,
+                "name": "ClaraCellProtein16(CC16)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 219,
+                "name": "Complex I activity",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 220,
+                "name": "Complex II activity",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 221,
+                "name": "Complex III activity",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 222,
+                "name": "Complex IV activity",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 283,
+                "name": "ComplexI-IVActivities",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 106,
+                "name": "Connexin 30",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 316,
+                "name": "Connexin30",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 107,
+                "name": "Connexin43",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 373,
+                "name": "creatine kinase",
+                "status": "Approved",
+                "created_at": "2025-04-13T13:23:45.000000Z",
+                "updated_at": "2025-04-13T17:23:45.000000Z"
+            },
+            {
+                "id": 203,
+                "name": "Creatinine (Cr)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 104,
+                "name": "Cyclic AMP-response element binding protein (CREB)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 315,
+                "name": "CyclicAMP-ResponseElement-BindingProtein(CREB)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 183,
+                "name": "Cyclin-dependent kinase inhibitor-1 (p21)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 301,
+                "name": "Cyclin-DependentKinaseInhibitor1(p21)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 144,
+                "name": "Cyclooxygenase-2 (COX-2) or prostaglandin-endoperoxide synthase-2 (PTGS2)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 137,
+                "name": "cytoplasmic-1 (NFATC1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 192,
+                "name": "Cytosolic phospholipase A2 (cPLA2)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 68,
+                "name": "d-ROM",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 21,
+                "name": "Diamine Oxidase (DAO)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 54,
+                "name": "Diastolic BP",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 273,
+                "name": "DiastolicBloodPressure(DBP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 90,
+                "name": "Dimethylarginine dimethylaminohydrolase 2 (DDAH2)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 321,
+                "name": "DimethylarginineDimethylaminohydrolase2(DDAH2)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 89,
+                "name": "Endothelial Nitric Oxide Synthase (eNOS)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 318,
+                "name": "EndothelialNitricOxideSynthase(eNOS)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 160,
+                "name": "Enhancer binding protein (C/EBPα)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 327,
+                "name": "EnhancerBindingProteins(C/EBP?,C/EBP?)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 111,
+                "name": "Excitatory Amino Acid Transporter-1 (EAAT-1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 317,
+                "name": "ExcitatoryAminoAcidTransporter-1(EAAT-1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 185,
+                "name": "Extracellular-signal-regulated kinases (ERK)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 34,
+                "name": "Fasting Blood Glucose (FBG)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 71,
+                "name": "Ferric reducing ability",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 242,
+                "name": "Ferric Reducing Ability of Plasma (FRAP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 44,
+                "name": "Fructosamine",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 270,
+                "name": "Gamma-Glutamyl Transferase (GGT)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 80,
+                "name": "GGT",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 39,
+                "name": "Ghrelin",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 109,
+                "name": "Glial fibrillary acidic protein (GFAP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 311,
+                "name": "GlialFibrillaryAcidicProtein(GFAP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 268,
+                "name": "Glomerular Filtration Rate (GFR)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 181,
+                "name": "Glucose-regulated protein-78 (GRP78)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 304,
+                "name": "Glucose-RegulatedProtein78(GRP78)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 233,
+                "name": "Glutathione (GSH)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 235,
+                "name": "Glutathione Peroxidase (GPx)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 237,
+                "name": "Glutathione Reductase",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 236,
+                "name": "Glutathione S-Transferase (GST)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 4,
+                "name": "Glutathione(GSH)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 6,
+                "name": "glutathioneperoxidase(GPx)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 8,
+                "name": "Glutathionereductase",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 7,
+                "name": "GlutathioneS-transferase(GST)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 193,
+                "name": "Gp91phox subunit",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 124,
+                "name": "Granulocyte-macrophage colony-stimulating factor (GM-CSF)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 62,
+                "name": "GSH",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 63,
+                "name": "GSH-Px",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 61,
+                "name": "GST",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 35,
+                "name": "HBA1c",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 46,
+                "name": "HDL",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 251,
+                "name": "Heat Shock Proteins (HSP60, HSP70, HSPs)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 174,
+                "name": "Heat Shock Proteins (HSPs)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 302,
+                "name": "HeatShockProtein60(HSP60)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 303,
+                "name": "HeatShockProtein70(HSP70)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 239,
+                "name": "Heme Oxygenase-1 (HO-1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 10,
+                "name": "Hemeoxygenase-1(HO-1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 50,
+                "name": "Hemoglobin",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 253,
+                "name": "Hemoglobin A1c (HbA1c)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 258,
+                "name": "High-Density Lipoprotein (HDL)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 150,
+                "name": "High-Mobility Group Protein B1 (HMGB1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 307,
+                "name": "High-MobilityGroupProteinB1(HMGB1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 243,
+                "name": "High-Sensitivity CRP (hs-CRP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 165,
+                "name": "hioredoxin interacting protein (TXNIP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 36,
+                "name": "HOMA-IR",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 254,
+                "name": "Homeostatic Model Assessment for Insulin Resistance (HOMA-IR)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 28,
+                "name": "Homocysteine",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 27,
+                "name": "hs-CRP",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 30,
+                "name": "HSP60",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 31,
+                "name": "HSP70",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 128,
+                "name": "Human growth-regulated oncogene Keratinocyte chemoattractant (GRO/KC)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 323,
+                "name": "Hypoxia-InducibleFactor-1Alpha(HIF-1?)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 40,
+                "name": "IGF-1",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 24,
+                "name": "IL-1",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 25,
+                "name": "IL-6",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 126,
+                "name": "Immunoglobulin E (IgE)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 88,
+                "name": "Inducible Nitric Oxide Synthase (iNOS)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 319,
+                "name": "InducibleNitricOxideSynthase(iNOS)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 377,
+                "name": "Infarct Size",
+                "status": "Approved",
+                "created_at": "2025-04-13T13:52:00.000000Z",
+                "updated_at": "2025-04-13T17:52:00.000000Z"
+            },
+            {
+                "id": 157,
+                "name": "Inhibitor of nuclear factor kappa-B kinase subunit beta (IKK2/IKK-β)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 300,
+                "name": "InhibitorofNF-?BKinaseSubunitBeta(IKK?)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 37,
+                "name": "Insulin",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 255,
+                "name": "Insulin-Like Growth Factor 1 (IGF-1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 246,
+                "name": "Interferon Gamma (IFN-γ)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 113,
+                "name": "Interferon gamma (IFN-Υ)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 120,
+                "name": "Interleukin-10 (IL-10)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 121,
+                "name": "Interleukin-12 (IL-12)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 122,
+                "name": "Interleukin-13 (IL-13)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 123,
+                "name": "Interleukin-18 (IL-18)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 244,
+                "name": "Interleukin-1β (IL-1β)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 114,
+                "name": "Interleukin-1β (IL-1β), Interleukin -2 (IL-2)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 115,
+                "name": "Interleukin-4 (IL-4)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 116,
+                "name": "Interleukin-5 (IL-5)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 117,
+                "name": "Interleukin-6 (IL-6)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 118,
+                "name": "Interleukin-7 (IL-7)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 119,
+                "name": "Interleukin-8 (IL-8)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 247,
+                "name": "Interleukins (IL-2, IL-4, IL-5, IL-7, IL-8, IL-10, IL-12, IL-13, IL-18)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 142,
+                "name": "Intracellular Adhesion Molecule-1 (ICAM-1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 145,
+                "name": "Ionized calcium-binding adapter molecule (Iba1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 49,
+                "name": "Lactate",
+                "status": "Approved",
+                "created_at": "2024-12-23T14:41:45.000000Z",
+                "updated_at": "2024-12-23T19:41:45.000000Z"
+            },
+            {
+                "id": 204,
+                "name": "Lactate dehydrogenase (LDH)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 47,
+                "name": "LDL",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 265,
+                "name": "Lectin-Type Oxidized LDL Receptor 1 (LOX-1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 376,
+                "name": "Left Ventricular Ejection Fraction (LVEF)",
+                "status": "Approved",
+                "created_at": "2025-04-13T13:51:29.000000Z",
+                "updated_at": "2025-04-13T17:51:29.000000Z"
+            },
+            {
+                "id": 375,
+                "name": "Left Ventricular Stroke Volume Index (LVSVI)",
+                "status": "Approved",
+                "created_at": "2025-04-13T13:51:05.000000Z",
+                "updated_at": "2025-04-13T17:51:05.000000Z"
+            },
+            {
+                "id": 38,
+                "name": "Leptin",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 84,
+                "name": "Liver enzymes",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 259,
+                "name": "Low-Density Lipoprotein (LDL)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 125,
+                "name": "Macrophage colony-stimulating factor (M-CSF)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 138,
+                "name": "Macrophage Inflammatory Protein (MIP-1α)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 15,
+                "name": "Malondialdehyde (MDA)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 297,
+                "name": "MammalianTargetofRapamycin(mTOR)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 94,
+                "name": "Matrix Metalloproteinase-1 (MMP-1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 329,
+                "name": "MatrixMetalloproteinase-1(MMP-1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 333,
+                "name": "MatrixMetalloproteinase-13(MMP-13)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 330,
+                "name": "MatrixMetalloproteinase-2(MMP-2)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 331,
+                "name": "MatrixMetalloproteinase-3(MMP-3)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 332,
+                "name": "MatrixMetalloproteinase-9(MMP-9)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 69,
+                "name": "MDA",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 326,
+                "name": "MicroRNA-199(miR-199)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 325,
+                "name": "MicroRNA-21(miR-21)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 151,
+                "name": "MicroRNA-9 (miR-9)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 324,
+                "name": "MicroRNA-9(miR-9)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 139,
+                "name": "MIP-1b",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 140,
+                "name": "MIP-2",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 141,
+                "name": "MIP-3α",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 153,
+                "name": "miR-199",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 152,
+                "name": "miR-21",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 223,
+                "name": "Mitochondrial biogenesis",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 217,
+                "name": "Mitochondrial membrane potential",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 213,
+                "name": "Mitochondrial Potassium ATP Channels (mKATP) opening",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 218,
+                "name": "mitochondrial unfolded protein response (mtUPR, UPRmt)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 281,
+                "name": "MitochondrialBiogenesis",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 280,
+                "name": "MitochondrialMembranePotential",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 285,
+                "name": "MitochondrialPermeabilityTransitionPores(mPTP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 284,
+                "name": "MitochondrialPotassiumATPChannels(mKATP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 282,
+                "name": "MitochondrialUnfoldedProteinResponse(mtUPR)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 186,
+                "name": "Mitogen-activated protein kinase kinases MEK1/2",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 184,
+                "name": "Mitogen-activated protein kinase p38",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 294,
+                "name": "Mitogen-ActivatedProteinKinases(MAPKs:p38,JNK,ERK)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 95,
+                "name": "MMP-2",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 97,
+                "name": "MMP-9",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 98,
+                "name": "MMP13",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 32,
+                "name": "MMP2",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 96,
+                "name": "MMP3",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 33,
+                "name": "MMP9",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 83,
+                "name": "mTOR",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 156,
+                "name": "Myeloid differentiation primary response gene 88 (MYD88)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 299,
+                "name": "MyeloidDifferentiationPrimaryResponse88(MYD88)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 248,
+                "name": "Myeloperoxidase (MPO)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 127,
+                "name": "Myeloperoxidase(MPO)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 378,
+                "name": "Myocardial Area at Risk",
+                "status": "Approved",
+                "created_at": "2025-04-13T13:52:23.000000Z",
+                "updated_at": "2025-04-13T17:52:23.000000Z"
+            },
+            {
+                "id": 313,
+                "name": "N-Methyl-D-AspartateReceptorSubunitNR1(NMDANR1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 43,
+                "name": "NAD+/NADH",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 286,
+                "name": "NAD+/NADHRatio",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 211,
+                "name": "NADPH oxidase",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 209,
+                "name": "NADPH Oxidase (Nox1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 210,
+                "name": "NADPH Oxidase (Nox2)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 159,
+                "name": "Nasal epithelium clone protein (PLUNC)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 176,
+                "name": "Neuron-specific enolase (NSE)ê",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 312,
+                "name": "Neuron-SpecificEnolase(NSE)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 86,
+                "name": "Neuronal Nitric Oxide Synthase (nNOS)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 320,
+                "name": "NeuronalNitricOxideSynthase(nNOS)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 29,
+                "name": "NF-kB",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 148,
+                "name": "NF-κB inhibitor - α (IκB-α)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 147,
+                "name": "NF-κB p65",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 257,
+                "name": "Nicotinamide Adenine Dinucleotide (NAD+/NADH)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 87,
+                "name": "Nitric Oxide Synthase (NOSII)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 20,
+                "name": "Nitrotyrosine",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 108,
+                "name": "NMDA subunit NR1ê",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 163,
+                "name": "NOD-like receptor family",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 238,
+                "name": "Nuclear Factor Erythroid 2–Related Factor 2 (Nrf2)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 250,
+                "name": "Nuclear Factor Kappa B (NF-κB)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 146,
+                "name": "Nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 136,
+                "name": "Nuclear factor of activated T-cells",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 9,
+                "name": "Nuclearfactor(erythroid-derived2)-like2(Nrf2)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 292,
+                "name": "NuclearFactorErythroid2–RelatedFactor2(Nrf2)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 293,
+                "name": "NuclearFactorKappaB(NF-?B)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 67,
+                "name": "OHdG",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 100,
+                "name": "oligomeric mucus/gel-forming (MUC5AC)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 65,
+                "name": "ORAC",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 205,
+                "name": "Ornithine decarboxylase (ODC)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 73,
+                "name": "OSI (oxidative stress index)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 23,
+                "name": "Other",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 85,
+                "name": "Others",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 227,
+                "name": "Oxidative Stress Index (OSI)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 240,
+                "name": "Oxygen Radical Absorbance Capacity (ORAC)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 171,
+                "name": "p-20 subunit of caspase 1 (Casp-1-p20)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 172,
+                "name": "p-Apoptosis signaling kinase 1 (p-ASK1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 291,
+                "name": "p-ApoptosisSignalingKinase1(p-ASK1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 198,
+                "name": "p-Glycogen synthase Kinase 3B (pGSK-3B )",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 149,
+                "name": "p-IκB-α, p-LYN",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 194,
+                "name": "p-protein kinase B (p-PKB) or (p-AKT)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 155,
+                "name": "p-STAT3",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 371,
+                "name": "p53 (protein and phospho-p53)",
+                "status": "Approved",
+                "created_at": "2025-04-08T18:39:42.000000Z",
+                "updated_at": "2025-04-08T22:39:42.000000Z"
+            },
+            {
+                "id": 264,
+                "name": "Paraoxonase-1 (PON-1)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 214,
+                "name": "Permeability Transition pores (mPTP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 52,
+                "name": "Phenotypic",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 195,
+                "name": "Phosphatidylinositol-4",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 295,
+                "name": "Phosphoinositide3-Kinase(PI3K)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 360,
+                "name": "Plasma Endotoxin",
+                "status": "Approved",
+                "created_at": "2025-02-28T17:57:34.000000Z",
+                "updated_at": "2025-02-28T22:57:34.000000Z"
+            },
+            {
+                "id": 188,
+                "name": "PLC-Υ1",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 189,
+                "name": "PLC-Υ2",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 173,
+                "name": "Programed dell death protein 4 (PDCD4)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 290,
+                "name": "ProgrammedCellDeathProtein4(PDCD4)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 177,
+                "name": "Proliferating cell nuclear antigen (PCNA)é",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 328,
+                "name": "ProliferatingCellNuclearAntigen(PCNA)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 17,
+                "name": "Protein Carbonyl",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 197,
+                "name": "Protein Kinase C (PKC)é",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 296,
+                "name": "ProteinKinaseB(AKT)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 92,
+                "name": "pVEGF2, Hypoxia-inducible factor-1 α (HIF-1α)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 164,
+                "name": "Pyrin domain-containing 3 (NLRP3)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 212,
+                "name": "Rac1",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 199,
+                "name": "Ras",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 16,
+                "name": "Reactive Oxidative Metabolites (dROM)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 229,
+                "name": "Reactive Oxygen Species (ROS)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 59,
+                "name": "Redox makers",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 305,
+                "name": "S100?",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 175,
+                "name": "S100β, Aquaporin-4",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 170,
+                "name": "Second mitochondrial-derived activator caspase (Smac)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 287,
+                "name": "SecondMitochondrial-DerivedActivatorofCaspase(Smac)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 191,
+                "name": "SEK1",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 249,
+                "name": "Serum Amyloid A (SAA)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 154,
+                "name": "Signal transducer and activator of transcription-3 (STAT3)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 298,
+                "name": "SignalTransducerandActivatorofTranscription3(STAT3)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 11,
+                "name": "Silentinformationregulator-2(Sir-2)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 60,
+                "name": "SOD",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 232,
+                "name": "Superoxide Dismutase (SOD)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 367,
+                "name": "superoxide dismutase (sod)malondialdehyde (mda)",
+                "status": "Approved",
+                "created_at": "2025-03-05T15:08:34.000000Z",
+                "updated_at": "2025-03-05T20:08:34.000000Z"
+            },
+            {
+                "id": 3,
+                "name": "Superoxide Dismutase(SOD)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 187,
+                "name": "Syk",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 105,
+                "name": "Synapsin",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 101,
+                "name": "Synaptophysin",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 53,
+                "name": "Systolic BP",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 272,
+                "name": "SystolicBloodPressure(SBP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 66,
+                "name": "T-AOC",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 48,
+                "name": "TAG",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 334,
+                "name": "Tartrate-Resistant Acid Phosphatase (TRAP)",
+                "status": "Approved",
+                "created_at": "2025-01-06T14:51:29.000000Z",
+                "updated_at": "2025-01-06T19:51:29.000000Z"
+            },
+            {
+                "id": 99,
+                "name": "Tartrate-resistant acid phosphatase (TRAP)ê, Mucin 5AC",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 70,
+                "name": "TBARS",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 355,
+                "name": "test",
+                "status": "Approved",
+                "created_at": "2025-03-05T15:08:42.000000Z",
+                "updated_at": "2025-03-05T20:08:42.000000Z"
+            },
+            {
+                "id": 41,
+                "name": "Testosterone",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 18,
+                "name": "Thiobarbituric Acid Reactive Substances (TBAR)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 224,
+                "name": "Thiobarbituric Acid Reactive Substances (TBARS)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 308,
+                "name": "ThioredoxinInteractingProtein(TXNIP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 26,
+                "name": "TNFa",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 252,
+                "name": "Toll-Like Receptor 4 (TLR4) Pathway",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 129,
+                "name": "Toll-like receptor 4 (TLR4) signaling pathway",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 241,
+                "name": "Total Antioxidant Capacity (T-AOC)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 230,
+                "name": "Total Antioxidant Capacity (TAC)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 357,
+                "name": "total cholesterol",
+                "status": "Approved",
+                "created_at": "2025-03-05T15:08:40.000000Z",
+                "updated_at": "2025-03-05T20:08:40.000000Z"
+            },
+            {
+                "id": 358,
+                "name": "Total Cholestrol",
+                "status": "Approved",
+                "created_at": "2025-02-28T17:56:32.000000Z",
+                "updated_at": "2025-02-28T22:56:32.000000Z"
+            },
+            {
+                "id": 1,
+                "name": "TotalAntioxidantStatus(TAC)",
+                "status": "Approved",
+                "created_at": "2024-12-18T11:46:38.000000Z",
+                "updated_at": "2024-12-18T16:46:38.000000Z"
+            },
+            {
+                "id": 260,
+                "name": "Triglycerides (TAG)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 245,
+                "name": "Tumor Necrosis Factor Alpha (TNF-α)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 112,
+                "name": "Tumor necrosis factor- α (TNF- α)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 74,
+                "name": "u-IsoP (urinary 8-isoprostane)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 82,
+                "name": "Uric acid",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 228,
+                "name": "Urinary 8-Isoprostane (u-IsoP)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 267,
+                "name": "Vascular Cell Adhesion Molecule (VCAM)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 143,
+                "name": "Vascular Cell Adhesion Molecule (VCAM) ê",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 91,
+                "name": "Vascular Endothelial Growth Factor (VEGF)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 322,
+                "name": "VascularEndothelialGrowthFactor(VEGF)",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 356,
+                "name": "vegf, mcp-1, f4/80 mrna, and nf-κb phosphorylation.",
+                "status": "Approved",
+                "created_at": "2025-03-05T15:08:41.000000Z",
+                "updated_at": "2025-03-05T20:08:41.000000Z"
+            },
+            {
+                "id": 75,
+                "name": "Vitamin C",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 76,
+                "name": "Vitamin E",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 58,
+                "name": "Waist-hip-circumference",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 276,
+                "name": "Waist-HipCircumference",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 55,
+                "name": "Weight loss",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 277,
+                "name": "WeightLoss",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 359,
+                "name": "White Blood Cells (WBCs)",
+                "status": "Approved",
+                "created_at": "2025-02-28T17:56:27.000000Z",
+                "updated_at": "2025-02-28T22:56:27.000000Z"
+            },
+            {
+                "id": 208,
+                "name": "Xanthine oxidase",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            },
+            {
+                "id": 72,
+                "name": "XOD",
+                "status": "Approved",
+                "created_at": "2024-12-19T10:13:29.000000Z",
+                "updated_at": "2024-12-19T10:13:29.000000Z"
+            }
+        ],
+        "category": [
+            {
+                "id": 1,
+                "name": "Antioxidant Markers",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2025-03-17T20:43:26.000000Z"
+            },
+            {
+                "id": 13,
+                "name": "Antioxidant Status and Enzymes",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 20,
+                "name": "Apoptosis and Cell Death Markers",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 18,
+                "name": "Blood Pressure and Body Composition",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 6,
+                "name": "Brain/ Neuron Function",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 22,
+                "name": "Heat Shock Proteins and Stress Markers",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 7,
+                "name": "Immunity/Inflammation",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 3,
+                "name": "Inflammation",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 14,
+                "name": "Inflammatory Cytokines and Proteins",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 16,
+                "name": "Lipid Profile and Cardiovascular Risk Factors",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 8,
+                "name": "Markers of cell injury/repair",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 9,
+                "name": "Markers of tissue damage/function",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 26,
+                "name": "Matrix Metalloproteinases and Tissue Remodeling",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 4,
+                "name": "Metabolic",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 15,
+                "name": "Metabolic and Endocrine Markers",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 25,
+                "name": "MicroRNAs and Gene Expression",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 11,
+                "name": "Mitochondria",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 19,
+                "name": "Mitochondrial Function and Energy Metabolism",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 23,
+                "name": "Neurotransmission and Neurotrophic Factors",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 24,
+                "name": "Nitric Oxide Synthases and Vascular Markers",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 2,
+                "name": "Oxidative Stress Markers",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-12-23T13:00:37.000000Z"
+            },
+            {
+                "id": 10,
+                "name": "Redox related molecules",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 17,
+                "name": "Renal and Liver Function Tests",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 21,
+                "name": "Signal Transduction Pathways",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            },
+            {
+                "id": 56,
+                "name": "test",
+                "created_at": "2025-03-17T21:00:54.000000Z",
+                "updated_at": "2025-03-17T21:01:00.000000Z"
+            },
+            {
+                "id": 27,
+                "name": "Un-categorized",
+                "created_at": "2024-11-20T19:12:42.000000Z",
+                "updated_at": "2024-11-20T19:12:42.000000Z"
+            },
+            {
+                "id": 5,
+                "name": "Vascular and Tissue Function",
+                "created_at": "2024-11-18T19:55:46.000000Z",
+                "updated_at": "2024-11-18T19:55:46.000000Z"
+            }
+        ]
+    }
+}

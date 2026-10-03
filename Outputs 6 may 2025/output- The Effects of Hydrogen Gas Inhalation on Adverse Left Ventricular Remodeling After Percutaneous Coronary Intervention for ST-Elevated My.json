@@ -1,0 +1,368 @@
+{
+    "publicData": {
+        "title": {
+            "name": "The Effects of Hydrogen Gas Inhalation on Adverse Left Ventricular Remodeling After Percutaneous Coronary Intervention for ST-Elevated Myocardial Infarction ― First Pilot Study in Humans ―",
+            "status": "unverified"
+        },
+        "name": "28321000",
+        "doi": {
+            "name": "10.1253/circj.CJ-17-0105",
+            "status": "unverified"
+        },
+        "authors": [
+            {
+                "name": {
+                    "name": 17.0,
+                    "affiliation": "Department of Cardiology, Keio University School of Medicine, Tokyo, Japan",
+                    "status": "unverified"
+                },
+                "status": "unverified"
+            }
+        ],
+        "abstract": {
+            "name": "Background:  Hydrogen gas inhalation (HI) reduced infarct size and mitigated adverse left ventricular (LV) remodeling in a rat model of acute myocardial infarction (AMI). We designed a prospective, open-label, rater-blinded clinical pilot study in patients experiencing ST-elevated MI (STEMI).\nMethods and Results:  The 20 patients with an initial diagnosis of STEMI were assigned to either an HI group (1.3% H2 with 26% oxygen) or a control group (26% oxygen). There were no HI-related severe adverse events. In the full analysis set, the cardiac salvage index as evaluated using cardiac magnetic resonance imaging at 7 days after primary percutaneous coronary intervention (PCI), showed no significant between-group difference (HI: 50.0±24.3%; control: 60.1±20.1%; P=0.43). However, the improvement from day 7 in the HI group was numerically greater than that in the control group in some of the surrogate outcomes at 6-month follow-up, including the LV stroke volume index (HI: 9.2±7.1 mL/m2; control: −1.4±7.2 mL/m2; P=0.03) and the LV ejection fraction (HI: 11.0%±9.3%; control: 1.7%±8.3%; P=0.11).\nConclusions:  The first clinical study has shown that HI during PCI is feasible and safe and may also promote LV reverse remodeling at 6 months after STEMI. The study was not powered to test efficacy and a further large-scale trial is warranted. (Clinical trials registration: UMIN00006825)\nKey Words: Cardiac magnetic resonance imaging; Hydrogen gas; Left ventricular remodeling; Myocardial infarction\nLATE BREAKING CLINICAL TRIAL (JCS 2017)",
+            "status": "unverified"
+        },
+        "year": {
+            "name": "2017",
+            "status": "unverified"
+        },
+        "journal": {
+            "name": "Circulation Journal",
+            "status": "unverified"
+        },
+        "publisher": {
+            "name": "Japanese Circulation Society",
+            "status": "unverified"
+        },
+        "impactFactor": null,
+        "HIndex": null,
+        "sciMAGO": {
+            "name": "Q1",
+            "status": "unverified"
+        },
+        "volume": {
+            "name": "81",
+            "status": "unverified"
+        },
+        "issue": null,
+        "pages": null,
+        "country": [
+            {
+                "name": "Japan",
+                "status": "unverified"
+            }
+        ],
+        "grantCountry": {
+            "name": "Japan",
+            "status": "unverified"
+        },
+        "researchCountry": [
+            {
+                "name": "Japan",
+                "status": "unverified"
+            }
+        ],
+        "keywords": null,
+        "status": "unverified"
+    },
+    "articleGeneralData": {
+        "outcome": {
+            "name": "Hydrogen gas inhalation during PCI in STEMI patients was feasible and safe, with no HI-related severe adverse events. While the primary outcome (cardiac salvage index at 7 days) showed no significant difference between groups, the HI group showed significant improvement in surrogate outcomes at 6 months, including LV stroke volume index and a trend toward improved LV ejection fraction, suggesting potential benefit in promoting LV reverse remodeling.",
+            "status": "unverified"
+        },
+        "outcomeType": [
+            "positive"
+        ],
+        "rankThisArticle": {
+            "name": 75,
+            "status": "unverified"
+        },
+        "HighlightArticle": {
+            "name": true,
+            "status": "unverified"
+        },
+        "descHighArt": {
+            "name": "First human pilot study of hydrogen gas inhalation during PCI for STEMI; demonstrated safety and feasibility, and showed significant improvement in LV stroke volume index at 6 months, suggesting a potential benefit for LV reverse remodeling.",
+            "status": "unverified"
+        },
+        "studyType": [
+            {
+                "name": "In Vivo",
+                "status": "unverified"
+            }
+        ],
+        "NonExperimentalSelect": [],
+        "ReviewStudyType": null,
+        "OpinionPiece": null,
+        "Hypothesis": null,
+        "TherapeuticDeliverySystems": null,
+        "inVivo": [
+            {
+                "name": "Human",
+                "status": "unverified"
+            }
+        ],
+        "selectedStudyTypes": [
+            "Clinical Trial Design"
+        ],
+        "clinicalTrialDesign": [
+            "Non-Randomized Trial",
+            "Randomized",
+            "Randomized",
+            "Randomized",
+            "Randomized",
+            "Randomized",
+            "Randomized",
+            "Randomized",
+            "Randomized",
+            "Randomized",
+            "Randomized",
+            "Randomized",
+            "Randomized",
+            "Randomized",
+            "Randomized",
+            "Randomized",
+            "Randomized",
+            "Randomized",
+            "Randomized",
+            "Randomized"
+        ],
+        "observationalStudyObj": [],
+        "durationOfStudy": {
+            "name": 6.0,
+            "status": "unverified"
+        },
+        "studyDurationUnit": "months",
+        "timingTreatmentInVivo": [
+            {
+                "name": "Pre-treatment",
+                "status": "unverified"
+            },
+            {
+                "name": "Simultaneous",
+                "status": "unverified"
+            }
+        ],
+        "durationOfStudyinVitro": null,
+        "UnitOfStudyInVitro": null,
+        "timingTreatmentInVitro": [],
+        "WhatCellTissueUsed": null,
+        "durationOfStudyExVivo": null,
+        "UnitOfStudyExVivo": null,
+        "timingTreatmentExVivo": [],
+        "Other": null,
+        "species": [
+            {
+                "name": "Human",
+                "status": "unverified"
+            }
+        ],
+        "researchtopic": [
+            {
+                "name": "Cardiovascular Diseases",
+                "status": "unverified"
+            },
+            {
+                "name": "Hydrogen Therapy",
+                "status": "unverified"
+            },
+            {
+                "name": "Oxidative Stress",
+                "status": "unverified"
+            },
+            {
+                "name": "Inflammation",
+                "status": "unverified"
+            }
+        ],
+        "diseaseModel": {
+            "name": "ST-elevated myocardial infarction (STEMI) in humans",
+            "status": "unverified"
+        },
+        "system": [
+            {
+                "name": "Cardiovascular Systems",
+                "status": "unverified"
+            }
+        ],
+        "organ": [
+            {
+                "name": "Heart",
+                "status": "unverified"
+            }
+        ]
+    },
+    "researcherData": {
+        "speciesData": {
+            "Human": {
+                "specieName": "Human",
+                "HowManyConcentrations": 1,
+                "volumes": null,
+                "concentrations": [
+                    {
+                        "value": "1.3",
+                        "unit": "%"
+                    }
+                ],
+                "absoluteDoses": null,
+                "relativeDoses": null,
+                "inhalationConcentrations": [
+                    {
+                        "percent_purity": "1.3% H2 with 26% oxygen",
+                        "flow_rate": {
+                            "value": 10.0,
+                            "unit": "mL/min"
+                        },
+                        "frequency": "Continuous during PCI",
+                        "duration_per_frequency": "From arrival at ER through PCI"
+                    }
+                ],
+                "wasOxyhydrogenUsed": {
+                    "name": "No",
+                    "status": "unverified"
+                },
+                "isInhalationOpen": true,
+                "isCellTissueOpen": false,
+                "isIngestionOpen": false,
+                "methods": [
+                    "Inhalation"
+                ],
+                "weight": "75",
+                "numInhalationConcentrations": {
+                    "name": "1",
+                    "status": "unverified"
+                },
+                "topicalMethod": null,
+                "concentrationOfHydrogenForMedium": null,
+                "FrequencyCellCultureTissues": null,
+                "DurationFrequencyCellCultureTissues": null,
+                "Peakbreathhydrogen": null,
+                "Frequency": null,
+                "IngestionDurationfrequency": null
+            }
+        },
+        "CompMethodAdmin": {
+            "name": false,
+            "status": "unverified"
+        },
+        "CompMethodAdminDesc": null,
+        "doseComparison": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "doseComparisonDesc": null,
+        "drugComparison": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "comparisonDetail": null,
+        "pharmacokinetics": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "pharmacokineticsDescription": null,
+        "isERW": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "ph": null,
+        "erwCompared": null,
+        "adverseEffects": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "adverseEffectsDescription": {
+            "name": "No severe adverse events related to hydrogen inhalation. Minor adverse events (eruption, constipation) occurred in both groups and were not related to HI.",
+            "status": "unverified"
+        },
+        "doseDependentEffect": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "safetyProfile": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "safetyofhydrogen": {
+            "name": true,
+            "status": "unverified"
+        },
+        "sexDifference": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "responderDifference": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "pregnantBreastfeeding": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "mechanisticInsights": {
+            "name": "True",
+            "status": "unverified"
+        },
+        "Video_WebpageLink": null,
+        "PasteUrl": {
+            "name": "http://dx.doi.org/10.1253/circj.CJ-17-0105",
+            "status": "unverified"
+        },
+        "commercialProduct": {
+            "name": "Yes",
+            "status": "unverified"
+        },
+        "brandName": {
+            "name": "Taiyo Nippon Sanso Corporation",
+            "status": "unverified"
+        },
+        "geneExpression": {
+            "name": "False",
+            "status": "unverified"
+        },
+        "geneExpressionDesc": null
+    },
+    "biomaker": [
+        {
+            "marker": "Cardiac salvage index (CMR)",
+            "category": [
+                "Imaging/Functional"
+            ],
+            "change": [
+                "No Change"
+            ],
+            "Protein": ""
+        },
+        {
+            "marker": "LV stroke volume index (LVSVI)",
+            "category": [
+                "Imaging/Functional"
+            ],
+            "change": [
+                "Statistically Increased"
+            ],
+            "Protein": ""
+        },
+        {
+            "marker": "LV ejection fraction (LVEF)",
+            "category": [
+                "Imaging/Functional"
+            ],
+            "change": [
+                "Increasing Trend"
+            ],
+            "Protein": ""
+        },
+        {
+            "marker": "Creatine kinase (CK)",
+            "category": [
+                "Enzyme"
+            ],
+            "change": [
+                "No Change"
+            ],
+            "Protein": ""
+        }
+    ]
+}

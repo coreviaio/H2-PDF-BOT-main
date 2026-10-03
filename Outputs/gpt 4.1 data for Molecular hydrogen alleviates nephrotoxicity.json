@@ -1,0 +1,471 @@
+{
+    "publicData": {
+        "title": {
+            "name": "Molecular hydrogen alleviates nephrotoxicity induced by an anti-cancer drug cisplatin without compromising anti-tumor activity in mice",
+            "status": "unverified"
+        },
+        "name": "19148645",
+        "doi": {
+            "name": "10.1007/s00280-008-0924-2",
+            "status": "unverified"
+        },
+        "authors": [
+            {
+                "name": "Shigeo Ohta",
+                "status": "unverified"
+            }
+        ],
+        "abstract": {
+            "name": "Purpose\nCisplatin is a widely used anti-cancer drug in the\ntreatment of a wide range of tumors; however, its applica-\ntion is limited by nephrotoxicity, which is aVected by\noxidative stress. We have reported that molecular hydrogen\n(H2) acts as an eYcient antioxidant (Ohsawa et al. in Nat\nMed 13:688–694, 2007). Here we show that hydrogen\neYciently mitigates the side eVects of cisplatin by reducing\noxidative stress.\nMethods\nMice were administered cisplatin followed by\ninhaling hydrogen gas (1% H2 in air). Furthermore, instead\nof inhaling hydrogen gas, we examined whether drinking\nwater containing hydrogen (hydrogen water; 0.8 mM H2 in\nwater) is applicable by examining oxidative stress, mortality,\nand body-weight loss. Nephrotoxicity was assessed by\nmorphological changes, serum creatinine and blood urea\nnitrogen (BUN) levels.\nResults\nInhalation of hydrogen gas improved mortality\nand body-weight loss caused by cisplatin, and alleviated\nnephrotoxicity. Hydrogen was detected in blood when\nhydrogen water was placed in the stomach of a rat. Con-\nsuming hydrogen water ad libitum also reduced oxidative\nstress, mortality, and body-weight loss induced by cisplatin\nin mice. Hydrogen water improved metamorphosis accom-\npanying decreased apoptosis in the kidney, and nephrotoxi-\nicity as assessed by serum creatinine and BUN levels.\nDespite its protective eVects against cisplatin-induced\ntoxicity, hydrogen did not impair anti-tumor activity of\ncisplatin against cancer cell lines in vitro and tumor-bearing\nmice in vivo.\nConclusion\nHydrogen has potential for improving the\nquality of life of patients during chemotherapy by\neYciently mitigating the side eVects of cisplatin.\nKeywords\nAntioxidant · Cisplatin · Dihydrogen · \nOxidative stress · Side eVect",
+            "status": "unverified"
+        },
+        "year": {
+            "name": "2009",
+            "status": "unverified"
+        },
+        "journal": {
+            "name": "Cancer Chemotherapy and Pharmacology",
+            "status": "unverified"
+        },
+        "publisher": {
+            "name": "Springer-Verlag",
+            "status": "unverified"
+        },
+        "impactFactor": null,
+        "HIndex": null,
+        "sciMAGO": {
+            "name": "Q1",
+            "status": "unverified"
+        },
+        "volume": {
+            "name": "64",
+            "status": "unverified"
+        },
+        "issue": null,
+        "pages": null,
+        "country": {
+            "name": "Japan",
+            "status": "unverified"
+        },
+        "grantCountry": {
+            "name": "Japan",
+            "status": "unverified"
+        },
+        "researchCountry": {
+            "name": "Japan",
+            "status": "unverified"
+        },
+        "keywords": null,
+        "status": "unverified"
+    },
+    "articleGeneralData": {
+        "outcome": {
+            "name": "Molecular hydrogen, administered as either inhaled gas (1% H2 in air) or as hydrogen-rich water (0.8 mM), significantly alleviated cisplatin-induced nephrotoxicity in mice, as evidenced by improved survival, reduced body-weight loss, lower serum creatinine and BUN, reduced oxidative stress (MDA), and less histopathological kidney damage. Importantly, hydrogen did not compromise the anti-tumor activity of cisplatin in vitro or in vivo.",
+            "status": "unverified"
+        },
+        "outcomeType": [
+            "positive"
+        ],
+        "rankThisArticle": {
+            "name": 92,
+            "status": "unverified"
+        },
+        "HighlightArticle": {
+            "name": true,
+            "status": "unverified"
+        },
+        "descHighArt": {
+            "name": "This article is notable for demonstrating that molecular hydrogen can protect against cisplatin-induced nephrotoxicity without reducing the anti-tumor efficacy of cisplatin, suggesting a clinically relevant protective strategy during chemotherapy.",
+            "status": "unverified"
+        },
+        "studyType": [
+            {
+                "name": "In Vivo",
+                "status": "unverified"
+            },
+            {
+                "name": "In Vitro",
+                "status": "unverified"
+            }
+        ],
+        "NonExperimentalSelect": [],
+        "ReviewStudyType": null,
+        "OpinionPiece": null,
+        "Hypothesis": null,
+        "TherapeuticDeliverySystems": null,
+        "inVivo": [
+            {
+                "name": "Animal",
+                "status": "unverified"
+            }
+        ],
+        "selectedStudyTypes": [],
+        "clinicalTrialDesign": [],
+        "observationalStudyObj": [],
+        "durationOfStudy": {
+            "name": 3.0,
+            "status": "unverified"
+        },
+        "studyDurationUnit": "days",
+        "timingTreatmentInVivo": [
+            {
+                "name": "Simultaneous",
+                "status": "unverified"
+            }
+        ],
+        "durationOfStudyinVitro": null,
+        "UnitOfStudyInVitro": null,
+        "timingTreatmentInVitro": [
+            {
+                "name": "Simultaneous",
+                "status": "unverified"
+            }
+        ],
+        "WhatCellTissueUsed": null,
+        "durationOfStudyExVivo": null,
+        "UnitOfStudyExVivo": null,
+        "timingTreatmentExVivo": [],
+        "Other": null,
+        "species": [
+            {
+                "name": "Mouse (C57BL/6CrSlc)",
+                "status": "unverified"
+            },
+            {
+                "name": "Mouse (ddY)",
+                "status": "unverified"
+            },
+            {
+                "name": "Rat (SD)",
+                "status": "unverified"
+            }
+        ],
+        "researchtopic": [
+            {
+                "name": "Cancer",
+                "status": "unverified"
+            },
+            {
+                "name": "Oxidative Stress",
+                "status": "unverified"
+            },
+            {
+                "name": "Hydrogen Therapy",
+                "status": "unverified"
+            },
+            {
+                "name": "Anti-inflammatory",
+                "status": "unverified"
+            }
+        ],
+        "diseaseModel": {
+            "name": "Cisplatin-induced nephrotoxicity and tumor-bearing mouse model",
+            "status": "unverified"
+        },
+        "system": [
+            {
+                "name": "Renal",
+                "status": "unverified"
+            },
+            {
+                "name": "Immune System",
+                "status": "unverified"
+            }
+        ],
+        "organ": [
+            {
+                "name": "Kidneys",
+                "status": "unverified"
+            },
+            {
+                "name": "Tumors",
+                "status": "unverified"
+            }
+        ]
+    },
+    "researcherData": {
+        "speciesData": {
+            "Mouse (C57BL/6CrSlc)": {
+                "specieName": "Mouse (C57BL/6CrSlc)",
+                "HowManyConcentrations": 2,
+                "volumes": null,
+                "concentrations": [
+                    {
+                        "value": "1",
+                        "unit": "% H2 in air"
+                    },
+                    {
+                        "value": "0.8",
+                        "unit": "mM H2 in water"
+                    }
+                ],
+                "absoluteDoses": [
+                    {
+                        "value": "17",
+                        "unit": "mg/kg (cisplatin)"
+                    }
+                ],
+                "relativeDoses": null,
+                "inhalationConcentrations": [
+                    {
+                        "percent_purity": "1% H2 in air",
+                        "flow_rate": {
+                            "value": 10000.0,
+                            "unit": "mL/min"
+                        },
+                        "frequency": "Continuous",
+                        "duration_per_frequency": "3 days"
+                    }
+                ],
+                "wasOxyhydrogenUsed": {
+                    "name": "No",
+                    "status": "unverified"
+                },
+                "isInhalationOpen": true,
+                "isCellTissueOpen": false,
+                "isIngestionOpen": true,
+                "methods": [
+                    "Inhalation",
+                    "Oral Hydrogen Water"
+                ],
+                "weight": "17.5 grams",
+                "numInhalationConcentrations": {
+                    "name": "1",
+                    "status": "unverified"
+                },
+                "topicalMethod": null,
+                "concentrationOfHydrogenForMedium": null,
+                "FrequencyCellCultureTissues": null,
+                "DurationFrequencyCellCultureTissues": null,
+                "Peakbreathhydrogen": null,
+                "Frequency": null,
+                "IngestionDurationfrequency": {
+                    "value": "ad libitum",
+                    "unit": "per day"
+                }
+            },
+            "Mouse (ddY)": {
+                "specieName": "Mouse (ddY)",
+                "HowManyConcentrations": 1,
+                "volumes": null,
+                "concentrations": [
+                    {
+                        "value": "0.8",
+                        "unit": "mM H2 in water"
+                    }
+                ],
+                "absoluteDoses": [
+                    {
+                        "value": "5",
+                        "unit": "mg/kg (cisplatin)"
+                    }
+                ],
+                "relativeDoses": null,
+                "inhalationConcentrations": null,
+                "wasOxyhydrogenUsed": {
+                    "name": "No",
+                    "status": "unverified"
+                },
+                "isInhalationOpen": false,
+                "isCellTissueOpen": false,
+                "isIngestionOpen": true,
+                "methods": [
+                    "Oral Hydrogen Water"
+                ],
+                "weight": "19 grams",
+                "numInhalationConcentrations": {
+                    "name": "0",
+                    "status": "unverified"
+                },
+                "topicalMethod": null,
+                "concentrationOfHydrogenForMedium": null,
+                "FrequencyCellCultureTissues": null,
+                "DurationFrequencyCellCultureTissues": null,
+                "Peakbreathhydrogen": null,
+                "Frequency": null,
+                "IngestionDurationfrequency": {
+                    "value": "ad libitum",
+                    "unit": "per day"
+                }
+            },
+            "Rat (SD)": {
+                "specieName": "Rat (SD)",
+                "HowManyConcentrations": 1,
+                "volumes": [
+                    {
+                        "value": "15",
+                        "unit": "mL/kg"
+                    }
+                ],
+                "concentrations": [
+                    {
+                        "value": "0.8",
+                        "unit": "mM H2 in water"
+                    }
+                ],
+                "absoluteDoses": null,
+                "relativeDoses": null,
+                "inhalationConcentrations": null,
+                "wasOxyhydrogenUsed": {
+                    "name": "No",
+                    "status": "unverified"
+                },
+                "isInhalationOpen": false,
+                "isCellTissueOpen": false,
+                "isIngestionOpen": true,
+                "methods": [
+                    "Gavage"
+                ],
+                "weight": "220 grams",
+                "numInhalationConcentrations": {
+                    "name": "0",
+                    "status": "unverified"
+                },
+                "topicalMethod": null,
+                "concentrationOfHydrogenForMedium": null,
+                "FrequencyCellCultureTissues": null,
+                "DurationFrequencyCellCultureTissues": null,
+                "Peakbreathhydrogen": null,
+                "Frequency": null,
+                "IngestionDurationfrequency": {
+                    "value": "single administration",
+                    "unit": "per experiment"
+                }
+            }
+        },
+        "CompMethodAdmin": {
+            "name": true,
+            "status": "unverified"
+        },
+        "CompMethodAdminDesc": {
+            "name": "The study compared the effects of hydrogen gas inhalation (1% H2 in air) and oral hydrogen water (0.8 mM) on cisplatin-induced nephrotoxicity in mice.",
+            "status": "unverified"
+        },
+        "doseComparison": {
+            "name": true,
+            "status": "unverified"
+        },
+        "doseComparisonDesc": {
+            "name": "Compared hydrogen gas (1% in air) and hydrogen water (0.8 mM) for efficacy; also compared different cisplatin doses for tumor model (5, 10, 15 mg/kg).",
+            "status": "unverified"
+        },
+        "drugComparison": {
+            "name": true,
+            "status": "unverified"
+        },
+        "comparisonDetail": {
+            "name": "Compared cisplatin alone versus cisplatin plus hydrogen (gas or water) for nephrotoxicity and anti-tumor efficacy.",
+            "status": "unverified"
+        },
+        "pharmacokinetics": {
+            "name": true,
+            "status": "unverified"
+        },
+        "pharmacokineticsDescription": {
+            "name": "Hydrogen concentration in blood was measured after oral administration of hydrogen water in rats, showing increased blood H2 levels.",
+            "status": "unverified"
+        },
+        "isERW": {
+            "name": {
+                "erw": false,
+                "pH": null,
+                "comparison": null
+            },
+            "status": "unverified"
+        },
+        "ph": null,
+        "erwCompared": null,
+        "adverseEffects": {
+            "name": false,
+            "status": "unverified"
+        },
+        "adverseEffectsDescription": null,
+        "doseDependentEffect": {
+            "name": true,
+            "status": "unverified"
+        },
+        "safetyProfile": {
+            "name": true,
+            "status": "unverified"
+        },
+        "safetyofhydrogen": {
+            "name": true,
+            "status": "unverified"
+        },
+        "sexDifference": {
+            "name": false,
+            "status": "unverified"
+        },
+        "responderDifference": {
+            "name": false,
+            "status": "unverified"
+        },
+        "pregnantBreastfeeding": {
+            "name": false,
+            "status": "unverified"
+        },
+        "mechanisticInsights": {
+            "name": true,
+            "status": "unverified"
+        },
+        "Video_WebpageLink": null,
+        "PasteUrl": null,
+        "commercialProduct": {
+            "name": true,
+            "status": "unverified"
+        },
+        "brandName": {
+            "name": "Blue Mercury Inc. (hydrogen water apparatus)",
+            "status": "unverified"
+        },
+        "geneExpression": {
+            "name": false,
+            "status": "unverified"
+        },
+        "geneExpressionDesc": null
+    },
+    "biomaker": {
+        "biomaker": [
+            {
+                "marker": "Serum creatinine",
+                "category": [],
+                "Change": [
+                    "Statistically Decreased"
+                ],
+                "status": "Unverified"
+            },
+            {
+                "marker": "Blood urea nitrogen (BUN)",
+                "category": [],
+                "Change": [
+                    "Statistically Decreased"
+                ],
+                "status": "Unverified"
+            },
+            {
+                "marker": "Malondialdehyde (MDA)",
+                "category": [],
+                "Change": [
+                    "Statistically Decreased"
+                ],
+                "status": "Unverified"
+            },
+            {
+                "marker": "Body weight loss",
+                "category": [],
+                "Change": [
+                    "Statistically Decreased"
+                ],
+                "status": "Unverified"
+            },
+            {
+                "marker": "TUNEL-positive cells (apoptosis in kidney)",
+                "category": [],
+                "Change": [
+                    "Statistically Decreased"
+                ],
+                "status": "Unverified"
+            }
+        ]
+    }
+}
